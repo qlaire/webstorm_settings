@@ -1,0 +1,51 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="11.9.0" last-modified="1549047727000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/9.4.0/bin/node" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="233-113-47-255" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.SavedEditorTheme" value="_@user_Material Oceanic" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="JavaScript File" />
+    <property name="INTENTION_FILTER_HISTORY" value="function" />
+    <property name="JestJavaScriptTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="JestJavaScriptTestRunnerSupport.scrollToSource" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.selectFirtsDefect" value="true" />
+    <property name="KEYMAP" value="vim" />
+    <property name="MochaJavaScriptTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="MochaJavaScriptTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="MochaJavaScriptTestRunnerSupport.scrollToSource" value="true" />
+    <property name="MochaJavaScriptTestRunnerSupport.selectFirtsDefect" value="true" />
+    <property name="PLUGIN_FILTER" value="pre" />
+    <property name="SearchEveryWhereHistory" value="notesaga&#10;notesa&#10;reduc/accou&#10;notes&#10;actions/accoun" />
+    <property name="SettingsSearchHistory" value="keymap&#10;plug&#10;create function&#10;Tab,Indent&#10;templ" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SplitFileEditor.Proportion" value="0.63087845" />
+    <property name="TrendingPluginsSearchHistory" value="tabmover&#10;A move tab left and right using the keyboard plugin&#10;tabmov" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="evlsprt3.182" value="17" />
+    <property name="evlsprt3.183" value="14" />
+    <property name="file.gist.reindex.count" value="180088" />
+    <property name="fileTypeChangedCounter" value="26" />
+    <property name="ideavim.statistics.timestamp" value="1553114363972" />
+    <property name="js.modules.notification.shown" value="true" />
+    <property name="js.rename.search.for.text.occurrences" value="true" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="rerun.tests.notification.shown" value="true" />
+    <property name="search.everywhere.max.popup.width" value="1308" />
+    <property name="selected.color.option.type" value="FILESTATUS_DELETED" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>

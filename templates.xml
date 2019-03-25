@@ -1,0 +1,12 @@
+<application>
+  <component name="TemplateSettings">
+    <option name="deletedKeys">
+      <list>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript Testing" />
+          <option name="key" value="descr" />
+        </TemplateKey>
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,13 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="shift meta alt k" />
+  </action>
+  <action id="com.mnw.tabmover.actions.MoveTabDownAction" />
+  <action id="com.mnw.tabmover.actions.MoveTabToNextWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
+  </action>
+  <action id="com.mnw.tabmover.actions.MoveTabToPreviousWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
+  </action>
+  <action id="com.mnw.tabmover.actions.MoveTabUpAction" />
+</keymap>
