@@ -81,12 +81,25 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="12" column="9" />
       </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@account/TreadCheckBox/TreadCheckbox.story.tsx" timestamp="1558547020539">
+        <mark key="'" line="4" column="29" />
+        <mark key="[" line="4" column="47" />
+        <mark key="]" line="4" column="48" />
+        <mark key="^" line="4" column="54" />
+        <mark key="." line="4" column="48" />
+      </file>
       <file name="$USER_HOME$/Development/canopy/canopy-firestore/__tests__/user.spec.js" timestamp="1551127977127">
         <mark key="'" line="146" column="33" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="292" column="3" />
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@account/TreadCheckBox/TreadCheckbox.tsx" timestamp="1558546589539">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="43" />
+        <mark key="^" line="2" column="43" />
+        <mark key="." line="2" column="43" />
       </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/SignUp/PaymentPage/StripeStyles.js" timestamp="1552068338283">
         <mark key="'" line="14" column="1" />
@@ -707,7 +720,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="18" filename="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentSagas.js" />
       <jump line="14" column="9" filename="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentSagas.js" />
       <jump line="3" column="7" filename="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentPage/PaymentForm.js" />
       <jump line="42" column="28" filename="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentPage/PaymentForm.js" />
@@ -807,16 +819,17 @@
       <jump line="1" column="20" filename="$USER_HOME$/Development/jupiter/packages/@account/layout/AccountMenu/LinkList.tsx" />
       <jump line="84" column="19" filename="$USER_HOME$/Development/jupiter/packages/@account/layout/AccountMenu/LinkList.tsx" />
       <jump line="102" column="22" filename="$USER_HOME$/Development/jupiter/packages/@account/layout/AccountMenu/LinkList.tsx" />
+      <jump line="4" column="29" filename="$USER_HOME$/Development/jupiter/packages/@account/TreadCheckBox/TreadCheckbox.story.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>count</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>count</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdHlsZWRcPg==</text>
+        <text encoding="base64">XDxtb2R1bGVcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZmlyZWJhc2Ug</text>
@@ -856,9 +869,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdHlsZWRcPg==</last-search>
+      <last-search encoding="base64">XDxtb2R1bGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdHlsZWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtb2R1bGVcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>ajv</last-substitute>
       <last-dir>1</last-dir>
@@ -866,7 +879,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mockchannel</entry>
         <entry encoding="base64">XDxtb2NrQ2hhbm5lbFw+</entry>
         <entry>coverage</entry>
         <entry>jest</entry>
@@ -886,6 +898,7 @@
         <entry>link</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry encoding="base64">XDxzdHlsZWRcPg==</entry>
+        <entry encoding="base64">XDxtb2R1bGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>280</entry>
