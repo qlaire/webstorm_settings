@@ -268,11 +268,11 @@
         <mark key="^" line="4" column="57" />
         <mark key="." line="4" column="57" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-puchase-flow/TreadSurveyPage/TreadCheckbox/TreadCheckbox.story.tsx" timestamp="1558629188607">
-        <mark key="[" line="4" column="39" />
-        <mark key="]" line="4" column="38" />
-        <mark key="." line="4" column="38" />
-        <mark key="^" line="4" column="38" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-puchase-flow/TreadSurveyPage/TreadCheckbox/TreadCheckbox.story.tsx" timestamp="1558638517401">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="33" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/SignUp/SignUpPage/SignUpPageActionTypes.js" timestamp="1549663609629">
         <mark key="[" line="0" column="82" />
@@ -431,12 +431,11 @@
         <mark key="^" line="62" column="54" />
         <mark key="." line="62" column="54" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-puchase-flow/TreadSurveyPage/TreadCheckbox/TreadCheckbox.tsx" timestamp="1558631714371">
-        <mark key="'" line="28" column="22" />
-        <mark key="[" line="26" column="1" />
-        <mark key="]" line="26" column="1" />
-        <mark key="." line="26" column="1" />
-        <mark key="^" line="26" column="1" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-puchase-flow/TreadSurveyPage/TreadCheckbox/TreadCheckbox.tsx" timestamp="1558638489020">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="11" column="6" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/__tests__/Payment/PaymentReducer.spec.js" timestamp="1552337501339">
         <mark key="[" line="36" column="21" />
@@ -771,9 +770,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="20" filename="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentPage/PaymentForm.js" />
-      <jump line="25" column="13" filename="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentPage/PaymentForm.js" />
-      <jump line="47" column="40" filename="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentPage/PaymentForm.js" />
       <jump line="92" column="24" filename="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentPage/PaymentForm.js" />
       <jump line="9" column="2" filename="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentSagas.js" />
       <jump line="70" column="30" filename="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentSagas.js" />
@@ -871,10 +867,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-puchase-flow/TreadSurveyPage/TreadCheckbox/TreadCheckbox.tsx" />
       <jump line="36" column="15" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-puchase-flow/TreadSurveyPage/TreadCheckbox/TreadCheckbox.tsx" />
       <jump line="16" column="22" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-puchase-flow/TreadSurveyPage/TreadCheckbox/TreadCheckbox.tsx" />
+      <jump line="26" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-puchase-flow/TreadSurveyPage/TreadCheckbox/TreadCheckbox.tsx" />
+      <jump line="20" column="52" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-puchase-flow/TreadSurveyPage/TreadCheckbox/TreadCheckbox.tsx" />
+      <jump line="33" column="10" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-puchase-flow/TreadSurveyPage/TreadCheckbox/TreadCheckbox.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCc7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>SurveyCheckbox</text>
@@ -886,31 +885,31 @@
         <text encoding="base64">c3Rvcmllc09mKCdAYWNjb3VudC9sYXlvdXQnLCBtb2R1bGUpLmFkZCgnQWNjb3VudE1lbnUnLCAoKSA9PiAoCiAgPFByb3ZpZGVyIHN0b3JlPXt0b1N0b3JlKHsgcmVkdWNlcnMgfSl9PgogICAgPEFjY291bnRNZW51IC8+CiAgPC9Qcm92aWRlcj4KKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPFN0eWxlZENoZWNrYm94CiAgICAgICAgY2hlY2tlZD17Y2hlY2tlZH0KICAgICAgICBvbkNoYW5nZT17aGFuZGxlQ2hhbmdlfQogICAgICAgIHZhbHVlPXtwcm9wcy52YWx1ZX0KICAgICAgICBpY29uPXs8UXVlc3Rpb25Cb3g+e2NoaWxkcmVufTwvUXVlc3Rpb25Cb3g+fQogICAgICAgIGNoZWNrZWRJY29uPXs8UXVlc3Rpb25Cb3ggaXNDaGVja2VkPntjaGlsZHJlbn08L1F1ZXN0aW9uQm94Pn0KICAgICAgICBkaXNhYmxlUmlwcGxlCiAgICAgIC8+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCc7Cgpjb25zdCBTVVJWRVlfRVhBTVBMRSA9ICdFLmcuIEVhY2ggc3RlcCBpcyBvdmVyIDEwIGluY2hlcy4nOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZW5kZXJCb3ggPSBpc0NoZWNrZWQgPT4gKAogICAgPFF1ZXN0aW9uQm94IGlzQ2hlY2tlZD17aXNDaGVja2VkfT4KICAgICAge2NoaWxkcmVufQogICAgPC9RdWVzdGlvbkJveD4KICApOwo=</text>
+        <text encoding="base64">Y29uc3QgU1VSVkVZX1FVRVNUSU9OID0gJ0kgaGF2ZSBzdGVlcCBzdGVwcy4nOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPFN1cnZleVF1ZXN0aW9uPntTVVJWRVlfUVVFU1RJT059PC9TdXJ2ZXlRdWVzdGlvbj4KICAgICAgPHA+e1NVUlZFWV9FWEFNUExFfTwvcD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdGF0ZSA9IHsKICAgIGNoZWNrZWRBOiBmYWxzZSwKICB9Owo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgQ2hlY2tib3hlc1dyYXBwZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8L1Byb3ZpZGVyPgo=</text>
+        <text encoding="base64">Y29uc3QgQ2hlY2tib3hlc1dyYXBwZXI6IFJlYWN0LkZDID0gKCkgPT4gewogIGNvbnN0IFtjaGVja2VkLCBzZXRDaGVja2VkXSA9IHVzZVN0YXRlKGZhbHNlKTsKCiAgY29uc3QgaGFuZGxlQ2hhbmdlID0gKCkgPT4gewogICAgc2V0Q2hlY2tlZCghY2hlY2tlZCk7CiAgfTsKCiAgcmV0dXJuIDxTdXJ2ZXlDaGVja2JveCBjaGVja2VkPXtjaGVja2VkfSB2YWx1ZT0ic29tZSB2YWx1ZSIgaGFuZGxlQ2hhbmdlPXtoYW5kbGVDaGFuZ2V9PntTVVJWRVlfUVVFU1RJT059PC9TdXJ2ZXlDaGVja2JveD4KfTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8UHJvdmlkZXIgc3RvcmU9e3RvU3RvcmUoeyByZWR1Y2VycyB9KX0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb2xvcjogJHtvZmZCbGFja307Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgQ2hlY2tib3hlc1dyYXBwZXI7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
