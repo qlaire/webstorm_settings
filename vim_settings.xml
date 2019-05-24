@@ -162,7 +162,6 @@
         <mark key="^" line="22" column="112" />
         <mark key="." line="22" column="112" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-register-free-trial/package.json" timestamp="1558713551959" />
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/__tests__/Payment/SignUpEventChannel.spec.js" timestamp="1552082726374">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="1" column="63" />
@@ -244,6 +243,7 @@
         <mark key="." line="12" column="21" />
         <mark key="^" line="12" column="21" />
       </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-puchase-flow/Survey/SurveyQuestions.tsx" timestamp="1558718739731" />
       <file name="$USER_HOME$/Development/jupiter/apps/uikit/index.tsx" timestamp="1558709542108">
         <mark key="'" line="114" column="31" />
         <mark key="[" line="36" column="0" />
@@ -465,12 +465,11 @@
         <mark key="^" line="13" column="40" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-puchase-flow/SurveyCheckbox/SurveyCheckbox.story.tsx" timestamp="1558709916984">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="53" />
-        <mark key="^" line="5" column="31" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-puchase-flow/SurveyCheckbox/SurveyCheckbox.story.tsx" timestamp="1558719723872">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/apps/members/src/index.tsx" timestamp="1558455080636">
         <mark key="'" line="91" column="16" />
@@ -517,7 +516,6 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@account/styles/theme.tsx" timestamp="1558709340460" />
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentPage/PaymentForm.js" timestamp="1552487064132">
         <mark key="'" line="74" column="0" />
         <mark key="[" line="50" column="0" />
@@ -832,9 +830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="36" filename="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentSagas.js" />
-      <jump line="67" column="0" filename="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentSagas.js" />
-      <jump line="84" column="0" filename="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentSagas.js" />
       <jump line="33" column="4" filename="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentSagas.js" />
       <jump line="86" column="0" filename="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentSagas.js" />
       <jump line="38" column="4" filename="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentSagas.js" />
@@ -932,52 +927,63 @@
       <jump line="114" column="31" filename="$USER_HOME$/Development/jupiter/apps/uikit/index.tsx" />
       <jump line="3" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-puchase-flow/SurveyCheckbox/SurveyCheckbox.story.tsx" />
       <jump line="162" column="13" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/styles/muiTheme.tsx" />
+      <jump line="9" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-puchase-flow/SurveyCheckbox/SurveyCheckbox.story.tsx" />
+      <jump line="32" column="18" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-puchase-flow/Survey/SurveyQuestions.tsx" />
+      <jump line="3" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-puchase-flow/Survey/SurveyQuestions.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>muiTheme</text>
+      <register name="a" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>muiTheme</text>
+        <text>CheckboxesWrapper</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWxvVGhlbWVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>'@account/styles';</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgU1VSVkVZX1FVRVNUSU9OID0gJ0kgaGF2ZSBzdGVlcCBzdGVwcywgbWFuLic7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9tdWlUaGVtZSc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb2xvcjogJHtvZmZCbGFja307Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgU3VydmV5Q2hlY2tib3ggfSBmcm9tICcuL1N1cnZleUNoZWNrYm94JzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgb2ZmQmxhY2sgfSBmcm9tICdAZWNvbW0vY29sb3JzJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlZCBmcm9tICdzdHlsZWQtY29tcG9uZW50cyc7Cg==</text>
+        <text encoding="base64">Y29uc3QgU1VSVkVZX1FVRVNUSU9OID0gJ0kgaGF2ZSBzdGVlcCBzdGVwcywgbWFuLic7Cgpjb25zdCBDaGVja2JveGVzV3JhcHBlcjogUmVhY3QuRkMgPSAoKSA9PiB7CiAgY29uc3QgW2NoZWNrZWQsIHNldENoZWNrZWRdID0gdXNlU3RhdGUoZmFsc2UpOwoKICBjb25zdCBoYW5kbGVDaGFuZ2UgPSAoKSA9PiB7CiAgICBzZXRDaGVja2VkKCFjaGVja2VkKTsKICB9OwoKICByZXR1cm4gKAogICAgPFN1cnZleUNoZWNrYm94CiAgICAgIGNoZWNrZWQ9e2NoZWNrZWR9CiAgICAgIHZhbHVlPSJzb21lIHZhbHVlIgogICAgICBvbkNoYW5nZT17aGFuZGxlQ2hhbmdlfQogICAgICBsYWJlbD17U1VSVkVZX1FVRVNUSU9OfQogICAgPgogICAgICB7U1VSVkVZX1FVRVNUSU9OfQogICAgPC9TdXJ2ZXlDaGVja2JveD4KICApOwp9Owo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgU3R5bGVkQ2hlY2tib3ggPSBzdHlsZWQocHJvcHMgPT4gKAogIDxDaGVja2JveCBjb2xvcj0iZGVmYXVsdCIgY2xhc3Nlcz17eyBjaGVja2VkOiAnY2hlY2tlZCcgfX0gey4uLnByb3BzfSAvPgopKWAKICAmLmNoZWNrZWQgewogICAgY29sb3I6ICR7b2ZmQmxhY2t9OwogIH0KYDsK</text>
+        <text encoding="base64">aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRpc2FibGVSaXBwbGUK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTXVpVGhlbWVQcm92aWRlciB9IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlJzsK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IHsgU3VydmV5Q2hlY2tib3ggfSBmcm9tICcuL1N1cnZleUNoZWNrYm94JzsK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc3QgU1VSVkVZX1FVRVNUSU9OID0gJ0kgaGF2ZSBzdGVlcCBzdGVwcywgbWFuLic7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>64</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1027,10 +1033,10 @@
         <entry encoding="base64">ZSArPDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtOmNsaWVudC9zcmMvcG9saWN5TGV2ZWxSYXRpbmcvU3BlY2lmaWVkQ2F1c2VzT2ZMb3NzL1NwZWNpZmllZENhdXNlc09mTG9zc0NvbnRhaW5lci5qcw==</entry>
         <entry>wa</entry>
         <entry>W</entry>
-        <entry>q</entry>
         <entry>w</entry>
         <entry>reg</entry>
         <entry>64</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
