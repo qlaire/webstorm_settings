@@ -218,6 +218,12 @@
         <mark key="]" line="1" column="33" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@account/mui-demos/demoComponents/selects/MultipleSelect.jsx" timestamp="1558711419400">
+        <mark key="[" line="64" column="21" />
+        <mark key="]" line="64" column="25" />
+        <mark key="." line="64" column="25" />
+        <mark key="^" line="64" column="25" />
+      </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/App/App.js" timestamp="1549320215026">
         <mark key="[" line="4" column="42" />
         <mark key="]" line="4" column="53" />
@@ -927,11 +933,11 @@
       <jump line="162" column="13" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/styles/muiTheme.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9tdWlUaGVtZSc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>muiTheme</text>
       </register>
       <register name="-" type="4">
-        <text>StyledCheckbox</text>
+        <text>muiTheme</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWxvVGhlbWVcPg==</text>
@@ -970,7 +976,7 @@
         <text encoding="base64">aW1wb3J0IHsgU3VydmV5Q2hlY2tib3ggfSBmcm9tICcuL1N1cnZleUNoZWNrYm94JzsK</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>64</text>
       </register>
     </registers>
     <search>
@@ -1023,6 +1029,7 @@
         <entry>q</entry>
         <entry>w</entry>
         <entry>reg</entry>
+        <entry>64</entry>
       </history-cmd>
       <history-expr />
       <history-input />
