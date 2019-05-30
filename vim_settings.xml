@@ -465,12 +465,12 @@
         <mark key="." line="3" column="22" />
         <mark key="^" line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyPage/Survey.tsx" timestamp="1559247036592">
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyPage/Survey.tsx" timestamp="1559247680119">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="61" column="4" />
-        <mark key="]" line="61" column="7" />
-        <mark key="^" line="61" column="7" />
-        <mark key="." line="61" column="7" />
+        <mark key="[" line="66" column="16" />
+        <mark key="]" line="66" column="17" />
+        <mark key="^" line="56" column="18" />
+        <mark key="." line="66" column="17" />
       </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentMethodUpdatePage/PaymentMethodUpdatePage.js" timestamp="1552593417233">
         <mark key="'" line="10" column="12" />
@@ -1013,10 +1013,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>headwing</text>
+        <text>20px</text>
       </register>
       <register name="-" type="4">
-        <text>headwing</text>
+        <text>20px</text>
       </register>
       <register name="/" type="4">
         <text>16px</text>
