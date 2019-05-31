@@ -420,6 +420,12 @@
         <mark key="^" line="18" column="2" />
         <mark key="." line="18" column="2" />
       </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyCheckbox/SurveyCheckbox.story.tsx" timestamp="1559330176704">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="22" column="26" />
+        <mark key="." line="7" column="7" />
+      </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/graphql/types.ts" timestamp="1559327089822">
         <mark key="'" line="423" column="2" />
       </file>
@@ -455,10 +461,11 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyQuestions/SurveyQuestions.tsx" timestamp="1559329097442">
-        <mark key="[" line="39" column="6" />
-        <mark key="]" line="39" column="6" />
-        <mark key="." line="39" column="6" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyQuestions/SurveyQuestions.tsx" timestamp="1559330085933">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="6" />
+        <mark key="." line="68" column="6" />
+        <mark key="^" line="68" column="6" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@peloton/images/BreakpointTransforms.tsx" timestamp="1558555681483">
         <mark key="'" line="29" column="2" />
@@ -650,46 +657,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text encoding="base64">U3VydmV5UXVlc3Rpb25zLCA=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">U3VydmV5UXVlc3Rpb25zLCA=</text>
       </register>
       <register name="/" type="4">
         <text>image</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUXVlc3Rpb25UeXBlIH0gZnJvbSAnQGVjb21tL2dyYXBocWwvdHlwZXMnOwo=</text>
+        <text encoding="base64">ICAgICAge3F1ZXN0aW9ucy5tYXAocXVlc3Rpb24gPT4gKAogICAgICAgIDxTdXJ2ZXlRdWVzdGlvbgogICAgICAgICAga2V5PXtxdWVzdGlvbi5zbHVnfQogICAgICAgICAgcXVlc3Rpb249e3F1ZXN0aW9ufQogICAgICAgICAgYW5zd2VyPXthbnN3ZXJzW3F1ZXN0aW9uLnNsdWddfQogICAgICAgICAgdXBkYXRlQW5zd2VyPXt1cGRhdGVBbnN3ZXJ9CiAgICAgICAgPgogICAgICAgICAgPFRpdGxlPntxdWVzdGlvbi50aXRsZX08L1RpdGxlPgogICAgICAgICAgPFN1YnRpdGxlPntxdWVzdGlvbi5zdWJ0aXRsZX08L1N1YnRpdGxlPgogICAgICAgIDwvU3VydmV5UXVlc3Rpb24+CiAgICAgICkpfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUXVlc3Rpb25UeXBlIH0gZnJvbSAnLi4vU3VydmV5UGFnZS9Qb3N0UHVyY2hhc2VTdXJ2ZXknOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUXVlc3Rpb25UeXBlIH0gZnJvbSAnLi4vLi4vZ3JhcGhxbC90eXBlcyc7CmltcG9ydCBTdXJ2ZXlRdWVzdGlvbiBmcm9tICcuLi9TdXJ2ZXlRdWVzdGlvbnMvU3VydmV5UXVlc3Rpb24nOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUXVlc3Rpb25UeXBlIH0gZnJvbSAnLi4vU3VydmV5UGFnZS9Qb3N0UHVyY2hhc2VTdXJ2ZXknOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUXVlc3Rpb25UeXBlIH0gZnJvbSAnLi4vU3VydmV5UGFnZS9Qb3N0UHVyY2hhc2VTdXJ2ZXknOwo=</text>
+        <text encoding="base64">Y29uc3QgcXVlc3Rpb25zID0gWwogIHsKICAgIHNsdWc6ICdTVEFJUl9GTElHSFRTJywKICAgIHRpdGxlOiAnU3RhaXIgRmxpZ2h0cycsCiAgICBzdWJ0aXRsZTogJ0hvdyBtYW55PycsCiAgICBhbnN3ZXJUeXBlOiBRdWVzdGlvblR5cGUuWWVzTm8sCiAgfSwKICB7CiAgICBzbHVnOiAnU1RFRVBfU1RBSVJTJywKICAgIHRpdGxlOiAnU3RlZXAgU3RhaXJzJywKICAgIHN1YnRpdGxlOiAnSG93IHN0ZWVwPycsCiAgICBhbnN3ZXJUeXBlOiBRdWVzdGlvblR5cGUuWWVzTm8sCiAgfSwKICB7CiAgICBzbHVnOiAnU0hBUlBfVFVSTlMnLAogICAgdGl0bGU6ICdTaGFycCBUdXJucycsCiAgICBzdWJ0aXRsZTogJ0hvdyBzaGFycD8nLAogICAgYW5zd2VyVHlwZTogUXVlc3Rpb25UeXBlLlllc05vLAogIH0sCl07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXNlUG9zdFB1cmNoYXNlU3VydmV5UXVlcnkgfSBmcm9tICcuL1Bvc3RQdXJjaGFzZVN1cnZleS5nZW5lcmF0ZWQnOwo=</text>
+        <text encoding="base64">ICAgICAgPC8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFN1cnZleVJlc3BvbnNlcyBmcm9tICcuLi9TdXJ2ZXlSZXNwb25zZXMvU3VydmV5UmVzcG9uc2VzJzsK</text>
+        <text encoding="base64">ICAgICAgICB7cXVlc3Rpb25zLm1hcChxdWVzdGlvbiA9PiAoCiAgICAgICAgICA8U3VydmV5UXVlc3Rpb24KICAgICAgICAgICAga2V5PXtxdWVzdGlvbi5zbHVnfQogICAgICAgICAgICBxdWVzdGlvbj17cXVlc3Rpb259CiAgICAgICAgICAgIGFuc3dlcj17ZmFsc2V9CiAgICAgICAgICAgIHVwZGF0ZUFuc3dlcj17KCkgPT4gdW5kZWZpbmVkfQogICAgICAgICAgPgogICAgICAgICAgPC9TdXJ2ZXlRdWVzdGlvbj4KICAgICAgICApKX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXNlUG9zdFB1cmNoYXNlU3VydmV5UXVlcnkgfSBmcm9tICcuL1Bvc3RQdXJjaGFzZVN1cnZleSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRpdGxlPntxdWVzdGlvbi50aXRsZX08L1RpdGxlPgogICAgICAgICAgICA8U3VidGl0bGU+e3F1ZXN0aW9uLnN1YnRpdGxlfTwvU3VidGl0bGU+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXNlUG9zdFB1cmNoYXNlU3VydmV5UXVlcnkgfSBmcm9tICcuL1Bvc3RQdXJjaGFzZVN1cnZleSc7Cg==</text>
+        <text encoding="base64">ICAgICAgPD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgb25DaGFuZ2U9e2hhbmRsZUNoYW5nZX0K</text>
+        <text encoding="base64">ICAgICAgPFN1cnZleVF1ZXN0aW9ucyBxdWVzdGlvbnM9e3F1ZXN0aW9uc30gLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUXVlc3Rpb25UeXBlIH0gZnJvbSAnLi4vU3VydmV5UGFnZS9Qb3N0UHVyY2hhc2VTdXJ2ZXknOwppbXBvcnQgeyBTdXJ2ZXlDaGVja2JveCB9IGZyb20gJy4uL1N1cnZleUNoZWNrYm94L1N1cnZleUNoZWNrYm94JzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgUXVlc3Rpb25UeXBlIH0gZnJvbSAnLi4vU3VydmV5UGFnZS9Qb3N0UHVyY2hhc2VTdXJ2ZXknOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
