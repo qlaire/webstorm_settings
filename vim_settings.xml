@@ -298,11 +298,11 @@
         <mark key="^" line="48" column="72" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyQuestions/SurveyQuestion.test.tsx" timestamp="1559325741405">
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyQuestions/SurveyQuestion.test.tsx" timestamp="1559329021714">
         <mark key="'" line="34" column="73" />
-        <mark key="[" line="66" column="60" />
-        <mark key="]" line="66" column="60" />
-        <mark key="." line="66" column="64" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="52" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/apps/members/src/index.tsx" timestamp="1558455080636">
         <mark key="'" line="91" column="16" />
@@ -455,12 +455,10 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyQuestions/SurveyQuestions.tsx" timestamp="1559327154923">
-        <mark key="'" line="41" column="24" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="52" />
-        <mark key="^" line="7" column="49" />
-        <mark key="." line="7" column="49" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyQuestions/SurveyQuestions.tsx" timestamp="1559329097442">
+        <mark key="[" line="39" column="6" />
+        <mark key="]" line="39" column="6" />
+        <mark key="." line="39" column="6" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@peloton/images/BreakpointTransforms.tsx" timestamp="1558555681483">
         <mark key="'" line="29" column="2" />
@@ -509,11 +507,11 @@
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyCheckbox/SurveyCheckbox.tsx" timestamp="1559245300736">
         <mark key="[" line="19" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyQuestions/SurveyQuestions.test.ts" timestamp="1559326007325">
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyQuestions/SurveyQuestions.test.ts" timestamp="1559329023735">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="64" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="52" />
         <mark key="^" line="40" column="63" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/README.md" timestamp="1553115109679">
         <mark key="'" line="85" column="18" />
@@ -651,11 +649,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUXVlc3Rpb25UeXBlIH0gZnJvbSAnLi4vU3VydmV5UGFnZS9Qb3N0UHVyY2hhc2VTdXJ2ZXknOwo=</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>../SurveyPage/PostPurchaseSurvey.generated</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>image</text>
@@ -670,28 +668,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXNlUG9zdFB1cmNoYXNlU3VydmV5UXVlcnkgfSBmcm9tICcuL1Bvc3RQdXJjaGFzZVN1cnZleS5nZW5lcmF0ZWQnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUXVlc3Rpb25UeXBlIH0gZnJvbSAnLi4vU3VydmV5UGFnZS9Qb3N0UHVyY2hhc2VTdXJ2ZXknOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFN1cnZleVJlc3BvbnNlcyBmcm9tICcuLi9TdXJ2ZXlSZXNwb25zZXMvU3VydmV5UmVzcG9uc2VzJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgUXVlc3Rpb25UeXBlIH0gZnJvbSAnLi4vU3VydmV5UGFnZS9Qb3N0UHVyY2hhc2VTdXJ2ZXknOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXNlUG9zdFB1cmNoYXNlU3VydmV5UXVlcnkgfSBmcm9tICcuL1Bvc3RQdXJjaGFzZVN1cnZleSc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgdXNlUG9zdFB1cmNoYXNlU3VydmV5UXVlcnkgfSBmcm9tICcuL1Bvc3RQdXJjaGFzZVN1cnZleS5nZW5lcmF0ZWQnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXNlUG9zdFB1cmNoYXNlU3VydmV5UXVlcnkgfSBmcm9tICcuL1Bvc3RQdXJjaGFzZVN1cnZleSc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFN1cnZleVJlc3BvbnNlcyBmcm9tICcuLi9TdXJ2ZXlSZXNwb25zZXMvU3VydmV5UmVzcG9uc2VzJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgb25DaGFuZ2U9e2hhbmRsZUNoYW5nZX0K</text>
+        <text encoding="base64">aW1wb3J0IHsgdXNlUG9zdFB1cmNoYXNlU3VydmV5UXVlcnkgfSBmcm9tICcuL1Bvc3RQdXJjaGFzZVN1cnZleSc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUXVlc3Rpb25UeXBlIH0gZnJvbSAnLi4vU3VydmV5UGFnZS9Qb3N0UHVyY2hhc2VTdXJ2ZXknOwppbXBvcnQgeyBTdXJ2ZXlDaGVja2JveCB9IGZyb20gJy4uL1N1cnZleUNoZWNrYm94L1N1cnZleUNoZWNrYm94JzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgdXNlUG9zdFB1cmNoYXNlU3VydmV5UXVlcnkgfSBmcm9tICcuL1Bvc3RQdXJjaGFzZVN1cnZleSc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGV4dEZpZWxkIH0gZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUnOwo=</text>
+        <text encoding="base64">ICAgICAgb25DaGFuZ2U9e2hhbmRsZUNoYW5nZX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUXVlc3Rpb25UeXBlIH0gZnJvbSAnLi4vU3VydmV5UGFnZS9Qb3N0UHVyY2hhc2VTdXJ2ZXknOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUXVlc3Rpb25UeXBlIH0gZnJvbSAnLi4vU3VydmV5UGFnZS9Qb3N0UHVyY2hhc2VTdXJ2ZXknOwppbXBvcnQgeyBTdXJ2ZXlDaGVja2JveCB9IGZyb20gJy4uL1N1cnZleUNoZWNrYm94L1N1cnZleUNoZWNrYm94JzsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
