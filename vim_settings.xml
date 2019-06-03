@@ -298,6 +298,11 @@
         <mark key="]" line="3" column="52" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-puchase-flow/SurveyCheckbox/SurveyCheckbox.story.tsx" timestamp="1559157352134">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/jupiter/apps/members/src/index.tsx" timestamp="1558455080636">
         <mark key="'" line="91" column="16" />
       </file>
@@ -339,11 +344,10 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyQuestions/SurveyQuestion.tsx" timestamp="1559588695403">
-        <mark key="[" line="87" column="4" />
-        <mark key="]" line="87" column="9" />
-        <mark key="." line="87" column="9" />
-        <mark key="^" line="87" column="9" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyQuestions/SurveyQuestion.tsx" timestamp="1559590764019">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/__tests__/SignUp/SignUpSelectors.spec.js" timestamp="1551216950858">
         <mark key="'" line="21" column="0" />
@@ -657,8 +661,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>padding</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBtYXJnaW46IDEwcHggMDsKICAke21lZGlhLnNtYWxsU2NyZWVuYAogICAgbWFyZ2luOiAxMHB4IDMwcHg7CiAgYH0K</text>
       </register>
       <register name="-" type="4">
         <text>padding</text>
@@ -670,34 +674,34 @@
         <text encoding="base64">ICBwYWRkaW5nOiAxMHB4IDA7CiAgd2lkdGg6IDEwMCU7CiAgJHttZWRpYS5zbWFsbFNjcmVlbmAKICAgIHBhZGRpbmc6IDEwcHggMzBweDsKICBgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
+        <text encoding="base64">ICBtYXJnaW46IDEwcHggMDsKICAke21lZGlhLnNtYWxsU2NyZWVuYAogICAgbWFyZ2luOiAxMHB4IDMwcHg7CiAgYH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IHsgbWVkaWEgfSBmcm9tICdAcGVsb3Rvbi9zdHlsZXMnOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMTZweDsKICAgIHBhZGRpbmctbGVmdDogMDsKICAgIHBhZGRpbmctcmlnaHQ6IDA7</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLXJpZ2h0OiAxMHB4OwogIHBhZGRpbmctbGVmdDogMTBweDsK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB3aWR0aDogOTQlOwo=</text>
+        <text encoding="base64">ICBwYWRkaW5nLXJpZ2h0OiAxMHB4OwogIHBhZGRpbmctbGVmdDogMTBweDsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICB3aWR0aDogOTQlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA6Oi13ZWJraXQtaW5wdXQtcGxhY2Vob2xkZXIgewogICAgY29sb3I6IHJlZDsKICB9Cg==</text>
+        <text encoding="base64">ICB3aWR0aDogOTQlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmb250LXNpemU6IDE2cHg7Cg==</text>
+        <text encoding="base64">ICA6Oi13ZWJraXQtaW5wdXQtcGxhY2Vob2xkZXIgewogICAgY29sb3I6IHJlZDsKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBmb250LXNpemU6IDE2cHg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
