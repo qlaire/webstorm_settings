@@ -10,11 +10,6 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="32" column="40" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/apps/www/public/index.html" timestamp="1559237657299">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="50" />
-        <mark key="." line="55" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/__tests__/SignUp/PaymentPage/PaymentForm.spec.js" timestamp="1552516223059">
         <mark key="'" line="41" column="11" />
         <mark key="[" line="41" column="11" />
@@ -156,11 +151,6 @@
         <mark key="^" line="152" column="2" />
         <mark key="." line="152" column="2" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-puchase-flow/SurveyCheckbox/TreadCheckbox.story.tsx" timestamp="1558643210674">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="33" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentPage/PaymentFormContainer.js" timestamp="1552488705361">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -275,11 +265,11 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyPage/Survey.tsx" timestamp="1559574963888">
-        <mark key="[" line="30" column="29" />
-        <mark key="]" line="30" column="32" />
-        <mark key="." line="30" column="32" />
-        <mark key="^" line="30" column="32" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyPage/Survey.tsx" timestamp="1559588066484">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="122" column="4" />
+        <mark key="." line="121" column="16" />
+        <mark key="^" line="121" column="16" />
       </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentMethodUpdatePage/PaymentMethodUpdatePage.js" timestamp="1552593417233">
         <mark key="'" line="10" column="12" />
@@ -328,11 +318,6 @@
         <mark key="." line="25" column="35" />
         <mark key="^" line="25" column="35" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/styles/index.ts" timestamp="1559056827383">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/__tests__/SignUp/SignUpEventChannel.spec.js" timestamp="1550868959584">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="0" column="0" />
@@ -354,18 +339,24 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-puchase-flow/SurveyCheckbox/SurveyQuestionBox.tsx" timestamp="1559063463378">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyQuestions/SurveyQuestion.tsx" timestamp="1559588695403">
+        <mark key="[" line="87" column="4" />
+        <mark key="]" line="87" column="9" />
+        <mark key="." line="87" column="9" />
+        <mark key="^" line="87" column="9" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyQuestions/SurveyQuestion.tsx" timestamp="1559583510772" />
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/__tests__/SignUp/SignUpSelectors.spec.js" timestamp="1551216950858">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="13" column="7" />
         <mark key="]" line="13" column="7" />
         <mark key="." line="13" column="7" />
         <mark key="^" line="13" column="7" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/localized-strings/en-US/index.ts" timestamp="1559586646248">
+        <mark key="[" line="1592" column="19" />
+        <mark key="]" line="1592" column="306" />
+        <mark key="." line="1592" column="306" />
+        <mark key="^" line="1592" column="306" />
       </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/SignUp/SignUpReducer.js" timestamp="1551985641985">
         <mark key="'" line="17" column="12" />
@@ -374,10 +365,11 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyCheckbox/SurveyQuestionBox.tsx" timestamp="1559245279325">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyCheckbox/SurveyQuestionBox.tsx" timestamp="1559588322408">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="17" column="4" />
+        <mark key="^" line="16" column="17" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/__tests__/Payment/PaymentSagas.spec.js" timestamp="1552516015376">
         <mark key="'" line="233" column="0" />
@@ -467,11 +459,11 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyQuestions/SurveyQuestions.tsx" timestamp="1559582351188">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="65" column="4" />
-        <mark key="." line="62" column="15" />
-        <mark key="^" line="68" column="6" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyQuestions/SurveyQuestions.tsx" timestamp="1559586417245">
+        <mark key="[" line="76" column="22" />
+        <mark key="]" line="77" column="14" />
+        <mark key="." line="77" column="14" />
+        <mark key="^" line="77" column="14" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@peloton/images/BreakpointTransforms.tsx" timestamp="1558555681483">
         <mark key="'" line="29" column="2" />
@@ -517,8 +509,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyCheckbox/SurveyCheckbox.tsx" timestamp="1559245300736">
-        <mark key="[" line="19" column="17" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyCheckbox/SurveyCheckbox.tsx" timestamp="1559588638491">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="25" column="4" />
+        <mark key="^" line="24" column="21" />
+        <mark key="." line="24" column="21" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyQuestions/SurveyQuestions.test.ts" timestamp="1559329023735">
         <mark key="[" line="0" column="0" />
@@ -663,46 +658,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>none</text>
+        <text>padding</text>
       </register>
       <register name="-" type="4">
-        <text>none</text>
+        <text>padding</text>
       </register>
       <register name="/" type="4">
         <text>override</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBmb250LXNpemU6IDE0cHg7CiAgJHttZWRpYS5zbWFsbFNjcmVlbmAKICAgIGZvbnQtc2l6ZTogMTZweDsKICBgfQo=</text>
+        <text encoding="base64">ICBwYWRkaW5nOiAxMHB4IDA7CiAgd2lkdGg6IDEwMCU7CiAgJHttZWRpYS5zbWFsbFNjcmVlbmAKICAgIHBhZGRpbmc6IDEwcHggMzBweDsKICBgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmb250LXNpemU6IDE2cHg7Cg==</text>
+        <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IHsgbWVkaWEgfSBmcm9tICdAcGVsb3Rvbi9zdHlsZXMnOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgb2ZmV2hpdGUgfSBmcm9tICcuLi8uLi9jb2xvcnMnOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMTZweDsKICAgIHBhZGRpbmctbGVmdDogMDsKICAgIHBhZGRpbmctcmlnaHQ6IDA7</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSW5wdXRCYXNlUHJvcHMgfSBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9JbnB1dEJhc2UnOwo=</text>
+        <text encoding="base64">ICBwYWRkaW5nLXJpZ2h0OiAxMHB4OwogIHBhZGRpbmctbGVmdDogMTBweDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlZCBmcm9tICdzdHlsZWQtY29tcG9uZW50cyc7Cg==</text>
+        <text encoding="base64">ICB3aWR0aDogOTQlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxUZXh0RmllbGQKICAgICAgbXVsdGlsaW5lCiAgICAgIG5hbWU9e3F1ZXN0aW9uLnNsdWd9CiAgICAgIGxhYmVsPXtxdWVzdGlvbi50aXRsZX0KICAgICAgb25DaGFuZ2U9e2hhbmRsZUNoYW5nZX0KICAgICAgdmFsdWU9e2Fuc3dlcn0KICAgICAgey4uLnByb3BzfQogICAgLz4K</text>
+        <text encoding="base64">ICB3aWR0aDogOTQlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEJvb3RzdHJhcAo=</text>
+        <text encoding="base64">ICA6Oi13ZWJraXQtaW5wdXQtcGxhY2Vob2xkZXIgewogICAgY29sb3I6IHJlZDsKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmb250LXNpemU6IDE2cHg7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZiAobG9hZGluZykgewogICAgcmV0dXJuIDxQYWdlU3Bpbm5lciAvPjsKICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
