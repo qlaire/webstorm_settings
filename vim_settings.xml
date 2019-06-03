@@ -220,13 +220,6 @@
         <mark key="." line="29" column="41" />
         <mark key="^" line="29" column="41" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/muiSetup.tsx" timestamp="1559238439105">
-        <mark key="'" line="17" column="5" />
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="0" column="30" />
-        <mark key="^" line="0" column="30" />
-        <mark key="." line="0" column="30" />
-      </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/typography/headings.ts" timestamp="1559246880246">
         <mark key="'" line="5" column="13" />
       </file>
@@ -298,11 +291,6 @@
         <mark key="]" line="3" column="52" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-puchase-flow/SurveyCheckbox/SurveyCheckbox.story.tsx" timestamp="1559157352134">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/jupiter/apps/members/src/index.tsx" timestamp="1558455080636">
         <mark key="'" line="91" column="16" />
       </file>
@@ -344,10 +332,11 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyQuestions/SurveyQuestion.tsx" timestamp="1559590764019">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyQuestions/SurveyQuestion.tsx" timestamp="1559593268515">
+        <mark key="[" line="75" column="34" />
+        <mark key="]" line="76" column="20" />
+        <mark key="^" line="76" column="20" />
+        <mark key="." line="76" column="20" />
       </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/__tests__/SignUp/SignUpSelectors.spec.js" timestamp="1551216950858">
         <mark key="'" line="21" column="0" />
@@ -369,11 +358,11 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyCheckbox/SurveyQuestionBox.tsx" timestamp="1559588322408">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="17" column="4" />
-        <mark key="^" line="16" column="17" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyCheckbox/SurveyQuestionBox.tsx" timestamp="1559593289208">
+        <mark key="[" line="11" column="80" />
+        <mark key="]" line="12" column="20" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="12" column="20" />
       </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/__tests__/Payment/PaymentSagas.spec.js" timestamp="1552516015376">
         <mark key="'" line="233" column="0" />
@@ -432,11 +421,7 @@
         <mark key="^" line="33" column="22" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/mui-styles/muiTheme.tsx" timestamp="1559583832284">
-        <mark key="'" line="171" column="13" />
-        <mark key="[" line="156" column="19" />
-        <mark key="]" line="156" column="23" />
-        <mark key="^" line="156" column="23" />
-        <mark key="." line="156" column="23" />
+        <mark key="'" line="162" column="13" />
       </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/SignUp/PaymentPage/PaymentPage.js" timestamp="1551290418178">
         <mark key="'" line="0" column="0" />
@@ -513,11 +498,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyCheckbox/SurveyCheckbox.tsx" timestamp="1559588638491">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="25" column="4" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyCheckbox/SurveyCheckbox.tsx" timestamp="1559592448610">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
         <mark key="^" line="24" column="21" />
-        <mark key="." line="24" column="21" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyQuestions/SurveyQuestions.test.ts" timestamp="1559329023735">
         <mark key="[" line="0" column="0" />
@@ -662,46 +647,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBtYXJnaW46IDEwcHggMDsKICAke21lZGlhLnNtYWxsU2NyZWVuYAogICAgbWFyZ2luOiAxMHB4IDMwcHg7CiAgYH0K</text>
+        <text encoding="base64">aW1wb3J0IHsgbWVkaWEgfSBmcm9tICdAcGVsb3Rvbi9zdHlsZXMnOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>padding</text>
+        <text>../../../</text>
       </register>
       <register name="/" type="4">
         <text>override</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAxMHB4IDA7CiAgd2lkdGg6IDEwMCU7CiAgJHttZWRpYS5zbWFsbFNjcmVlbmAKICAgIHBhZGRpbmc6IDEwcHggMzBweDsKICBgfQo=</text>
+        <text encoding="base64">ICAke21lZGlhLnNtYWxsU2NyZWVuYAogICAgZm9udC1zaXplOiAxNnB4OwogIGB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtYXJnaW46IDEwcHggMDsKICAke21lZGlhLnNtYWxsU2NyZWVuYAogICAgbWFyZ2luOiAxMHB4IDMwcHg7CiAgYH0K</text>
+        <text encoding="base64">aW1wb3J0IHsgbWVkaWEgfSBmcm9tICdAcGVsb3Rvbi9zdHlsZXMnOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgRm9ybUNvbnRyb2xQcm9wcyB9IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL0Zvcm1Db250cm9sJzsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMTZweDsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IHsgbWVkaWEgfSBmcm9tICdAcGVsb3Rvbi9zdHlsZXMnOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMTZweDsKICAgIHBhZGRpbmctbGVmdDogMDsKICAgIHBhZGRpbmctcmlnaHQ6IDA7</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLXJpZ2h0OiAxMHB4OwogIHBhZGRpbmctbGVmdDogMTBweDsK</text>
+        <text encoding="base64">ICAke21lZGlhLnNtYWxsU2NyZWVuYAogICAgcGFkZGluZzogMTBweCAzMHB4OwogIGB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB3aWR0aDogOTQlOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgbWVkaWEgfSBmcm9tICdAcGVsb3Rvbi9zdHlsZXMnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB3aWR0aDogOTQlOwo=</text>
+        <text encoding="base64">ICAke21lZGlhLnNtYWxsU2NyZWVuYAogICAgcGFkZGluZzogMTBweCAzMHB4OwogIGB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA6Oi13ZWJraXQtaW5wdXQtcGxhY2Vob2xkZXIgewogICAgY29sb3I6IHJlZDsKICB9Cg==</text>
+        <text encoding="base64">ICBwYWRkaW5nOiAxMHB4IDA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmb250LXNpemU6IDE2cHg7Cg==</text>
+        <text encoding="base64">ICBtYXJnaW46IDEwcHggMDsKICAke21lZGlhLnNtYWxsU2NyZWVuYAogICAgbWFyZ2luOiAxMHB4IDMwcHg7CiAgYH0K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
