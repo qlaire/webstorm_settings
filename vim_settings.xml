@@ -33,6 +33,7 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@peloton/internationalize/wrappers/FormattedMessage.tsx" timestamp="1560372630325" />
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/UserProfile/UserProfileSelectors.js" timestamp="1551390315043">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="1" column="0" />
@@ -83,9 +84,11 @@
         <mark key="^" line="79" column="20" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/Header/CheckoutHeader.tsx" timestamp="1560356764581">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="39" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/Header/CheckoutHeader.tsx" timestamp="1560372257180">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="37" />
+        <mark key="^" line="6" column="37" />
+        <mark key="." line="6" column="37" />
       </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/cloudbuild.yaml" timestamp="1552665936208">
         <mark key="[" line="3" column="36" />
@@ -705,10 +708,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>shouldShowHeaderTitle</text>
+        <text encoding="base64">UmVhY3QuSFRNTEF0dHJpYnV0ZXM8SFRNTEVsZW1lbnQ+Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>shouldShowHeaderTitle</text>
+        <text encoding="base64">UmVhY3QuSFRNTEF0dHJpYnV0ZXM8SFRNTEVsZW1lbnQ+Ow==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTY3JvbGxUb1RvcFw+</text>
