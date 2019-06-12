@@ -328,21 +328,21 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/PageContainer/PageContainer.tsx" timestamp="1560369346752">
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/PageContainer/PageContainer.tsx" timestamp="1560370906434">
         <mark key="'" line="10" column="3" />
-        <mark key="[" line="9" column="33" />
-        <mark key="]" line="9" column="41" />
-        <mark key="." line="9" column="41" />
-        <mark key="^" line="9" column="41" />
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="19" />
+        <mark key="^" line="14" column="19" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/apps/members/src/index.tsx" timestamp="1558455080636">
         <mark key="'" line="91" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Layout.tsx" timestamp="1560369544612">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="31" column="16" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Layout.tsx" timestamp="1560371111630">
+        <mark key="[" line="40" column="19" />
+        <mark key="]" line="41" column="22" />
+        <mark key="^" line="41" column="22" />
+        <mark key="." line="41" column="22" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Footer/Footer.tsx" timestamp="1560355312702">
         <mark key="'" line="109" column="13" />
@@ -356,6 +356,7 @@
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-shipping-reservation/ShippingReservationPage/DateSelector/DateSelector.ts" timestamp="1558455289445">
         <mark key="'" line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Handler.tsx" timestamp="1560370765180" />
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/__tests__/Payment/PaymentReducer.spec.js" timestamp="1552337501339">
         <mark key="[" line="36" column="21" />
         <mark key="]" line="37" column="16" />
@@ -704,11 +705,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFBhZ2VDb250YWluZXIgZnJvbSAnQGVjb21tL2NoZWNrb3V0L1BhZ2VDb250YWluZXIvUGFnZUNvbnRhaW5lcic7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">UG9zaXRpb25lZCA=</text>
       </register>
       <register name="-" type="4">
-        <text>../</text>
+        <text encoding="base64">UG9zaXRpb25lZCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTY3JvbGxUb1RvcFw+</text>
