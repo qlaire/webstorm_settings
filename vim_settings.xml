@@ -76,12 +76,12 @@
         <mark key="^" line="2" column="43" />
         <mark key="." line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/layout.tsx" timestamp="1560357809944">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="79" column="22" />
-        <mark key="]" line="79" column="20" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/layout.tsx" timestamp="1560371845863">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
         <mark key="^" line="79" column="20" />
-        <mark key="." line="79" column="20" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/Header/CheckoutHeader.tsx" timestamp="1560356764581">
         <mark key="[" line="1" column="0" />
@@ -328,12 +328,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/PageContainer/PageContainer.tsx" timestamp="1560370906434">
-        <mark key="'" line="10" column="3" />
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="19" />
-        <mark key="^" line="14" column="19" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/PageContainer/PageContainer.tsx" timestamp="1560372177833">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="26" />
+        <mark key="^" line="16" column="26" />
+        <mark key="." line="16" column="26" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/apps/members/src/index.tsx" timestamp="1558455080636">
         <mark key="'" line="91" column="16" />
@@ -595,7 +594,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/Handler.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/Handler.tsx" />
       <jump line="27" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyCheckbox/SurveyCheckbox.story.tsx" />
       <jump line="74" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/Handler.tsx" />
@@ -684,7 +682,6 @@
       <jump line="42" column="4" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyPage/Survey.tsx" />
       <jump line="35" column="30" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Layout.tsx" />
       <jump line="1" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Layout.tsx" />
-      <jump line="9" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/layout.tsx" />
       <jump line="109" column="13" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Footer/Footer.tsx" />
       <jump line="69" column="40" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Layout.tsx" />
       <jump line="68" column="5" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/layout.tsx" />
@@ -695,6 +692,8 @@
       <jump line="10" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/layout.tsx" />
       <jump line="17" column="9" filename="$USER_HOME$/Development/jupiter/apps/www/src/index.tsx" />
       <jump line="5" column="3" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/PageContainer/PageContainer.tsx" />
+      <jump line="75" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/layout.tsx" />
+      <jump line="9" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/layout.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -706,10 +705,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">UG9zaXRpb25lZCA=</text>
+        <text>shouldShowHeaderTitle</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UG9zaXRpb25lZCA=</text>
+        <text>shouldShowHeaderTitle</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTY3JvbGxUb1RvcFw+</text>
@@ -718,34 +717,34 @@
         <text encoding="base64">Y29uc3QgQ29udGFpbmVyID0gc3R5bGVkLmRpdmAKICBkaXNwbGF5OiBmbGV4OwogIGZsZXg6IDEgMCBhdXRvOwogIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47CiAgaGVpZ2h0OiAxMDAlOwpgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFBhZ2VDb250YWluZXIgZnJvbSAnQGVjb21tL2NoZWNrb3V0L1BhZ2VDb250YWluZXIvUGFnZUNvbnRhaW5lcic7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQ2hlY2tvdXRGb290ZXIgfSBmcm9tICdAZWNvbW0vcGctY2hlY2tvdXQvRm9vdGVyJzsKaW1wb3J0IHsgUGFnZUNvbnRhaW5lciB9IGZyb20gJ0BlY29tbS9sYXlvdXQnOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFBhZ2VDb250YWluZXIgZnJvbSAnQGVjb21tL2NoZWNrb3V0L1BhZ2VDb250YWluZXIvUGFnZUNvbnRhaW5lcic7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlc3BvbnNpdmVIZWFkZXIgZnJvbSAnQGVjb21tL2NoZWNrb3V0L0hlYWRlci9IZWFkZXJWaWV3JzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTGF5b3V0IH0gZnJvbSAnLi9sYXlvdXQnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgTGlua3MgfSBmcm9tICdAcGVsb3Rvbi9saW5rcyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSGVhZGVyIH0gZnJvbSAnQGVjb21tL2NoZWNrb3V0JzsKaW1wb3J0IHsgQ2hlY2tvdXRGb290ZXIgfSBmcm9tICcuL0Zvb3Rlcic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICBNYWludGVuYW5jZUJhbm5lciwKICBzaG91bGRTaG93TWFpbnRlbmFuY2VCYW5uZXIsCn0gZnJvbSAnQGVjb21tL21haW50ZW5hbmNlLWJhbm5lcic7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IExheW91dDogUmVhY3QuRkMgPSAoeyBjaGlsZHJlbiB9KSA9PiAoCiAgPFBhZ2VDb250YWluZXI+CiAgICA8UmVzcG9uc2l2ZUhlYWRlciBob21lTGluaz17TGlua3MucGVsb3Rvbn0gLz4KICAgIHtjaGlsZHJlbn0KICAgIDxDaGVja291dEZvb3RlciAvPgogIDwvUGFnZUNvbnRhaW5lcj4KKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQ2hlY2tvdXRGb290ZXIgfSBmcm9tICdAZWNvbW0vcGctY2hlY2tvdXQvRm9vdGVyJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgQ2hlY2tvdXRGb290ZXJQb3NpdGlvbmVkID0gc3R5bGVkKENoZWNrb3V0Rm9vdGVyKWAKICBtYXJnaW4tdG9wOiA4MHB4OwpgOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gY29uc3QgQ2hlY2tvdXRGb290ZXJQb3NpdGlvbmVkID0gc3R5bGVkKENoZWNrb3V0Rm9vdGVyKWAKLy8gICBtYXJnaW4tdG9wOiA4MHB4OwovLyBgOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgQ29udGFpbmVyID0gc3R5bGVkLmRpdmAKICBkaXNwbGF5OiBmbGV4OwogIGZsZXg6IDEgMCBhdXRvOwogIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47CiAgaGVpZ2h0OiAxMDAlOwpgOwo=</text>
+        <text encoding="base64">aW1wb3J0IFBhZ2VDb250YWluZXIgZnJvbSAnQGVjb21tL2NoZWNrb3V0L1BhZ2VDb250YWluZXIvUGFnZUNvbnRhaW5lcic7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
