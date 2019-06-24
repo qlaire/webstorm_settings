@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/SignUpPage/SignUpPageActions.js" timestamp="1549562971424">
@@ -456,7 +456,7 @@
         <mark key="." line="25" column="30" />
         <mark key="^" line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/ReserveDeliveryPage/Scheduler/Scheduler.tsx" timestamp="1561390501192">
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/ReserveDeliveryPage/Scheduler/Scheduler.tsx" timestamp="1561391164506">
         <mark key="'" line="24" column="23" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="50" />
