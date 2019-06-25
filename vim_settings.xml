@@ -36,12 +36,12 @@
         <mark key="[" line="32" column="0" />
         <mark key="]" line="37" column="2" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/ReserveDeliveryPage/Scheduler/DateSelector/DateCardCarousel.tsx" timestamp="1561485528977">
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/ReserveDeliveryPage/Scheduler/DateSelector/DateCardCarousel.tsx" timestamp="1561486913811">
         <mark key="'" line="5" column="18" />
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="20" />
-        <mark key="." line="14" column="20" />
-        <mark key="^" line="14" column="20" />
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
       </file>
       <file name="$USER_HOME$/Downloads/P-G-Stride-code-test (1)/README.md" timestamp="1560443031641">
         <mark key="[" line="0" column="24" />
@@ -73,11 +73,11 @@
       <file name="/Dummy.txt" timestamp="1559842530767">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/ReserveDeliveryPage/Scheduler/DateSelector/DateCardCarouselArrow.tsx" timestamp="1561486033306">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="27" column="68" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/ReserveDeliveryPage/Scheduler/DateSelector/DateCardCarouselArrow.tsx" timestamp="1561486748649">
+        <mark key="[" line="47" column="15" />
+        <mark key="]" line="71" column="27" />
+        <mark key="^" line="71" column="27" />
+        <mark key="." line="47" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -191,32 +191,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB2aXNpYmlsaXR5OiAke3Byb3BzID0+IChwcm9wcy50aGljayA/ICdoaWRkZW4nIDogJ3Nob3cnKX0K</text>
+      <register name="&quot;" type="4">
+        <text>thick</text>
       </register>
       <register name="-" type="4">
-        <text>hidden</text>
+        <text>thick</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdHlsZWRDaGV2cm9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiAke3Byb3BzID0+IChwcm9wcy50aGljayA/ICdub25lJyA6ICdibG9jaycpfSAhaW1wb3J0YW50OwogICY6aG92ZXIgewogICAgZGlzcGxheTogJHtwcm9wcyA9PiAocHJvcHMudGhpY2sgPyAnYmxvY2snIDogJ25vbmUnKX0gIWltcG9ydGFudDsKICB9Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IExlZnRBcnJvdyA9IHN0eWxlZChMaWdodE5hdmlnYXRpb25CdXR0b24pLmF0dHJzKHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmVhcmluZzogJ2xlZnQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSlgCiAgJHthcnJvd1N0eWxlc30KICBkaXNwbGF5OiAke3Byb3BzID0+IChwcm9wcy50aGljayA/ICdub25lJyA6ICdibG9jaycpfSAhaW1wb3J0YW50OwogICY6aG92ZXIgewogICAgZGlzcGxheTogJHtwcm9wcyA9PiAocHJvcHMudGhpY2sgPyAnYmxvY2snIDogJ25vbmUnKX0gIWltcG9ydGFudDsKICB9CiAgbGVmdDogLTQwcHggIWltcG9ydGFudDsKYDsKCmV4cG9ydCBjb25zdCBSaWdodEFycm93ID0gc3R5bGVkKExpZ2h0TmF2aWdhdGlvbkJ1dHRvbikuYXR0cnMoewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmVhcmluZzogJ3JpZ2h0JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KWAKICAke2Fycm93U3R5bGVzfQogIGRpc3BsYXk6ICR7cHJvcHMgPT4gKHByb3BzLnRoaWNrID8gJ25vbmUnIDogJ2Jsb2NrJyl9ICFpbXBvcnRhbnQ7CiAgJjpob3ZlciB7CiAgICBkaXNwbGF5OiAke3Byb3BzID0+IChwcm9wcy50aGljayA/ICdibG9jaycgOiAnbm9uZScpfSAhaW1wb3J0YW50OwogIH0KICByaWdodDogLTQwcHggIWltcG9ydGFudDsKYDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2aXNpYmlsaXR5OiAke3Byb3BzID0+IChwcm9wcy50aGljayA/ICdoaWRkZW4nIDogJ3Nob3cnKX0K</text>
+        <text encoding="base64">ICAgIDxSaWdodEFycm93IHsuLi5wcm9wc30gLz4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCByaWdodEFycm93ID0gcHJvcHMgPT4gKAogICAgPD4KICAgICAgPFJpZ2h0QXJyb3cgey4uLnByb3BzfSAvPgogICAgPC8+CiAgKTsKICBjb25zdCBsZWZ0QXJyb3cgPSBwcm9wcyA9PiAoCiAgICA8PgogICAgICA8TGVmdEFycm93IHsuLi5wcm9wc30gLz4KICAgIDwvPgogICk7Cg==</text>
+        <text encoding="base64">ICBkaXNwbGF5OiAke3Byb3BzID0+IChwcm9wcy50aGljayA/ICdub25lJyA6ICdibG9jaycpfSAhaW1wb3J0YW50Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvPgo=</text>
+        <text encoding="base64">ICB2aXNpYmlsaXR5OiAke3Byb3BzID0+IChwcm9wcy50aGljayA/ICdoaWRkZW4nIDogJ3Nob3cnKX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDw+Cg==</text>
+        <text encoding="base64">ICBjb25zdCByaWdodEFycm93ID0gcHJvcHMgPT4gKAogICAgPD4KICAgICAgPFJpZ2h0QXJyb3cgey4uLnByb3BzfSAvPgogICAgPC8+CiAgKTsKICBjb25zdCBsZWZ0QXJyb3cgPSBwcm9wcyA9PiAoCiAgICA8PgogICAgICA8TGVmdEFycm93IHsuLi5wcm9wc30gLz4KICAgIDwvPgogICk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIDwvPgo=</text>
@@ -225,13 +225,13 @@
         <text encoding="base64">ICAgIDw+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPExlZnRBcnJvdyB0aGljayAvPgo=</text>
+        <text encoding="base64">ICAgIDwvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPFJpZ2h0QXJyb3cgdGhpY2sgLz4K</text>
+        <text encoding="base64">ICAgIDw+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiAke3Byb3BzID0+IChwcm9wcy50aGljayA/ICdub25lJyA6ICdibG9jaycpfQo=</text>
+        <text encoding="base64">ICAgICAgPExlZnRBcnJvdyB0aGljayAvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
