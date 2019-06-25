@@ -1,176 +1,17 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/SignUpPage/SignUpPageActions.js" timestamp="1549562971424">
-        <mark key="[" line="5" column="3" />
-        <mark key="]" line="9" column="6" />
-        <mark key="^" line="9" column="6" />
-        <mark key="." line="9" column="6" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/typings/jss-provider.d.ts" timestamp="1559157359378">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="40" />
-        <mark key="." line="0" column="40" />
-        <mark key="^" line="0" column="40" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyPage/PostPurchaseSurvey.generated.ts" timestamp="1559755270502">
-        <mark key="'" line="29" column="12" />
-        <mark key="[" line="24" column="12" />
-        <mark key="]" line="24" column="55" />
-      </file>
       <file name="/a.dummy" timestamp="1560377436603">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyPage/SurveyQuestions/SurveyCheckbox/SurveyCheckbox.story.tsx" timestamp="1559846669443">
-        <mark key="[" line="7" column="51" />
-        <mark key="]" line="7" column="51" />
-        <mark key="." line="7" column="51" />
-        <mark key="^" line="7" column="55" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/HomePage/HomePageContainer.js" timestamp="1551386487208">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="23" />
-        <mark key="^" line="13" column="57" />
-        <mark key="." line="13" column="57" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/mui-styles/package.json" timestamp="1559057929256">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="17" />
-        <mark key="." line="1" column="17" />
-        <mark key="^" line="1" column="17" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/UserProfile/UserProfileSelectors.js" timestamp="1551390315043">
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/routes.tsx" timestamp="1559238500531">
-        <mark key="[" line="7" column="96" />
-        <mark key="]" line="7" column="96" />
-        <mark key="." line="7" column="96" />
-        <mark key="^" line="7" column="96" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/__tests__/SignUp/SignUpReducer.spec.js" timestamp="1551215394245">
-        <mark key="[" line="54" column="6" />
-        <mark key="]" line="54" column="11" />
-        <mark key="." line="54" column="11" />
-        <mark key="^" line="54" column="11" />
-      </file>
-      <file name="$USER_HOME$/Development/react_native/weather/components/SearchInput.js" timestamp="1548887765792">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="34" column="3" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentMethodUpdatePage/PaymentMethodUpdateFormContainer.js" timestamp="1552514129729">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-        <mark key="^" line="12" column="9" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@account/TreadCheckBox/TreadCheckbox.tsx" timestamp="1558546589539">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="43" />
-        <mark key="^" line="2" column="43" />
-        <mark key="." line="2" column="43" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/layout.tsx" timestamp="1560371845863">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="79" column="20" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/Header/CheckoutHeader.tsx" timestamp="1560377322699">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="45" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/cloudbuild.yaml" timestamp="1552665936208">
-        <mark key="[" line="3" column="36" />
-        <mark key="]" line="3" column="48" />
-        <mark key="^" line="3" column="48" />
-        <mark key="." line="3" column="48" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentEventChannel.js" timestamp="1552083797537">
-        <mark key="[" line="5" column="77" />
-        <mark key="]" line="8" column="61" />
-        <mark key="^" line="8" column="61" />
-        <mark key="." line="8" column="61" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@members/form/InputWithLabelView.tsx" timestamp="1560372996108">
-        <mark key="'" line="24" column="4" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="63" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/Footer/Footer.story.tsx" timestamp="1560379102585">
-        <mark key="'" line="14" column="2" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="59" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-firestore/firestore.rules" timestamp="1551132375896">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="23" column="43" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/reducers.js" timestamp="1551389403694">
-        <mark key="[" line="7" column="47" />
-        <mark key="]" line="8" column="56" />
-        <mark key="." line="8" column="56" />
-        <mark key="^" line="8" column="56" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/internals/webpack/webpack.dev.babel.js" timestamp="1549379403103">
-        <mark key="[" line="16" column="63" />
-        <mark key="]" line="16" column="67" />
-        <mark key="." line="16" column="67" />
-        <mark key="^" line="16" column="67" />
-      </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-ui/client/src/__mocks__/autoTransactionFixture.js" timestamp="1548272656882">
-        <mark key="[" line="232" column="36" />
-        <mark key="]" line="232" column="37" />
-        <mark key="^" line="232" column="37" />
-        <mark key="." line="232" column="37" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/LoginPage/LoginActions.js" timestamp="1551201481676">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="28" />
-        <mark key="." line="0" column="28" />
-        <mark key="^" line="0" column="28" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@account/mui-demos/demoComponents/selects/MultipleSelect.jsx" timestamp="1558711419400">
-        <mark key="[" line="64" column="21" />
-        <mark key="]" line="64" column="25" />
-        <mark key="." line="64" column="25" />
-        <mark key="^" line="64" column="25" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/App/App.js" timestamp="1549320215026">
-        <mark key="[" line="4" column="42" />
-        <mark key="]" line="4" column="53" />
-        <mark key="." line="4" column="53" />
-        <mark key="^" line="4" column="53" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/UserProfile/UserProfileReducer.js" timestamp="1551983051815">
-        <mark key="[" line="12" column="28" />
-        <mark key="]" line="13" column="31" />
-        <mark key="^" line="13" column="31" />
-        <mark key="." line="13" column="31" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/SignUp/SignUpEventChannel.js" timestamp="1551884040455">
-        <mark key="[" line="0" column="47" />
-        <mark key="]" line="0" column="39" />
-        <mark key="." line="0" column="39" />
-        <mark key="^" line="0" column="39" />
-      </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-ui/client/src/__tests__/policyLevelRating/selectors/SpecifiedCausesOfLossSelectors.spec.js" timestamp="1548446690296">
-        <mark key="[" line="140" column="31" />
-        <mark key="]" line="140" column="46" />
-        <mark key="." line="140" column="31" />
-        <mark key="^" line="90" column="35" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/carousel/NavigationButton.tsx" timestamp="1561477755836">
+        <mark key="'" line="33" column="9" />
+        <mark key="[" line="27" column="7" />
+        <mark key="]" line="27" column="14" />
+        <mark key="^" line="27" column="14" />
+        <mark key="." line="27" column="14" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/ReserveDeliveryPage/Scheduler/DateSelector/DateCard.tsx" timestamp="1561411450855">
         <mark key="'" line="33" column="1" />
@@ -178,91 +19,13 @@
         <mark key="]" line="14" column="18" />
         <mark key="." line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-cloud-functions/functions/package.json" timestamp="1550525992049">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="57" />
-        <mark key="^" line="4" column="57" />
-        <mark key="." line="4" column="57" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-puchase-flow/TreadSurveyPage/TreadCheckbox/TreadCheckbox.story.tsx" timestamp="1558642123276">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/SignUp/SignUpPage/SignUpPageActionTypes.js" timestamp="1549663609629">
-        <mark key="[" line="0" column="82" />
-        <mark key="]" line="0" column="89" />
-        <mark key="^" line="0" column="89" />
-        <mark key="." line="0" column="89" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyPage/SurveyQuestions/SurveyCheckbox/SurveyQuestionBox.tsx" timestamp="1559854604681">
-        <mark key="[" line="2" column="50" />
-        <mark key="]" line="2" column="51" />
-        <mark key="." line="2" column="51" />
-        <mark key="^" line="2" column="51" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/Page.tsx" timestamp="1560377828733">
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="1" column="30" />
-        <mark key="." line="1" column="30" />
-        <mark key="^" line="1" column="30" />
-      </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-ui/client/src/commercialAutomobile/selectors/CommercialAutomobileSelectors.js" timestamp="1548260349199">
-        <mark key="[" line="65" column="23" />
-        <mark key="]" line="65" column="31" />
-        <mark key="." line="65" column="31" />
-        <mark key="^" line="65" column="31" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/localized-strings/en-US/pgCheckout.ts" timestamp="1560373271187">
-        <mark key="[" line="47" column="21" />
-        <mark key="]" line="47" column="21" />
-        <mark key="^" line="47" column="21" />
-        <mark key="." line="47" column="21" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/Header/HeaderView/index.tsx" timestamp="1560357786938">
-        <mark key="[" line="26" column="7" />
-        <mark key="]" line="26" column="8" />
-        <mark key="^" line="26" column="8" />
-        <mark key="." line="26" column="8" />
-      </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyPage/SurveyQuestions/SurveyTextbox.tsx" timestamp="1560799163179">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="5" />
         <mark key="." line="14" column="5" />
         <mark key="^" line="14" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/SignUpPage/SignUpPageSagas.js" timestamp="1549563156298">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="41" />
-        <mark key="^" line="9" column="34" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SharedStyles.tsx" timestamp="1560356421685">
-        <mark key="[" line="7" column="32" />
-        <mark key="]" line="8" column="12" />
-        <mark key="." line="8" column="12" />
-        <mark key="^" line="8" column="12" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-puchase-flow/Survey/SurveyResponses.test.ts" timestamp="1558729685261">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="17" column="8" />
-        <mark key="^" line="15" column="28" />
-        <mark key="." line="15" column="28" />
-      </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/carousel/ChevronThin.tsx" timestamp="1561475957564" />
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-ui/client/src/policyLevelRating/SpecifiedCausesOfLoss/SpecifiedCausesOfLossPropTypes.js" timestamp="1548452880467">
-        <mark key="[" line="24" column="27" />
-        <mark key="]" line="24" column="26" />
-        <mark key="^" line="24" column="26" />
-        <mark key="." line="24" column="26" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentMethodUpdatePage/PaymentMethodUpdatePageContainer.js" timestamp="1552488880655">
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="47" />
-        <mark key="." line="17" column="47" />
-        <mark key="^" line="17" column="47" />
-      </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/ReserveDeliveryPage/Scheduler/DateSelector/DateCardContainer.test.tsx" timestamp="1561474085054">
         <mark key="[" line="12" column="36" />
         <mark key="]" line="12" column="37" />
@@ -273,131 +36,27 @@
         <mark key="[" line="32" column="0" />
         <mark key="]" line="37" column="2" />
       </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/internals/webpack/webpack.prod.babel.js" timestamp="1549379406242">
-        <mark key="[" line="15" column="34" />
-        <mark key="]" line="15" column="38" />
-        <mark key="." line="15" column="38" />
-        <mark key="^" line="15" column="38" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/__tests__/UserProfile/UserProfileSelectors.spec.js" timestamp="1551905743488">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="35" />
-        <mark key="^" line="8" column="68" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/ReserveDeliveryPage/Scheduler/DateSelector/DateCardCarousel.tsx" timestamp="1561411539586">
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/ReserveDeliveryPage/Scheduler/DateSelector/DateCardCarousel.tsx" timestamp="1561478476646">
         <mark key="'" line="69" column="0" />
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="13" />
-        <mark key="." line="1" column="13" />
-        <mark key="^" line="1" column="13" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-cloud-functions/functions/.eslintrc.json" timestamp="1550526058626">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="22" />
-        <mark key="." line="3" column="22" />
-        <mark key="^" line="3" column="22" />
+        <mark key="[" line="25" column="15" />
+        <mark key="]" line="25" column="24" />
+        <mark key="." line="25" column="24" />
+        <mark key="^" line="25" column="24" />
       </file>
       <file name="$USER_HOME$/Downloads/P-G-Stride-code-test (1)/README.md" timestamp="1560443031641">
         <mark key="[" line="0" column="24" />
       </file>
-      <file name="/fragment.js" timestamp="1551296748175">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/Development/blackboard/blackboard-slate-ui/client/src/policyLevelRating/containers/SpecifiedCausesOfLossContainer.js" timestamp="1548435400925">
-        <mark key="[" line="36" column="15" />
-        <mark key="]" line="36" column="49" />
-        <mark key="^" line="21" column="37" />
-        <mark key="." line="36" column="15" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/cart/summary/AmountOffRow.test.tsx" timestamp="1560378862199">
-        <mark key="'" line="17" column="17" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="63" column="2" />
-        <mark key="^" line="69" column="1" />
-        <mark key="." line="63" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentSelectors.js" timestamp="1552336943026">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="13" column="40" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/PageContainer/PageContainer.tsx" timestamp="1560372177833">
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="26" />
-        <mark key="^" line="16" column="26" />
-        <mark key="." line="16" column="26" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Layout.tsx" timestamp="1560377850399">
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="6" column="29" />
-        <mark key="^" line="6" column="29" />
-        <mark key="." line="6" column="29" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyPage/SurveyQuestions/SurveyCreateSubmission.test.ts" timestamp="1559844004205">
-        <mark key="[" line="20" column="76" />
-        <mark key="]" line="20" column="80" />
-        <mark key="^" line="20" column="80" />
-        <mark key="." line="20" column="80" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/__tests__/Payment/PaymentReducer.spec.js" timestamp="1552337501339">
-        <mark key="[" line="36" column="21" />
-        <mark key="]" line="37" column="16" />
-        <mark key="." line="37" column="16" />
-        <mark key="^" line="37" column="16" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/mui-styles/index.ts" timestamp="1559056946136">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentPage/PaymentPage.js" timestamp="1552487094361">
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="11" column="18" />
-        <mark key="." line="11" column="18" />
-        <mark key="^" line="11" column="18" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/graphql/codegen.yml" timestamp="1559768347355">
-        <mark key="[" line="7" column="51" />
-        <mark key="]" line="7" column="50" />
-        <mark key="." line="7" column="50" />
-        <mark key="^" line="7" column="50" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/__tests__/LoginPage/LoginPageSagas.spec.js" timestamp="1551214628175">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="1" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/carousel/ChevronThicc.tsx" timestamp="1561477955657">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="19" column="9" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/apps/www/src/features/en-US.ts" timestamp="1561412538908">
         <mark key="[" line="120" column="25" />
         <mark key="]" line="120" column="32" />
         <mark key="." line="120" column="32" />
         <mark key="^" line="120" column="32" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/Header/CheckoutHeader.test.tsx" timestamp="1560379340413">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="85" column="6" />
-        <mark key="^" line="127" column="48" />
-        <mark key="." line="98" column="15" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/SignUpPage/SignUpPageContainer.js" timestamp="1549562121558">
-        <mark key="[" line="14" column="2" />
-        <mark key="]" line="14" column="17" />
-        <mark key="^" line="14" column="17" />
-        <mark key="." line="14" column="17" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyCheckbox/SurveyQuestionBox.tsx" timestamp="1559660535445">
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="15" />
-        <mark key="^" line="16" column="15" />
-        <mark key="." line="16" column="15" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/ReserveDeliveryPage/Scheduler/DateSelector/DateSelector.tsx" timestamp="1561397864163">
         <mark key="'" line="155" column="10" />
@@ -406,197 +65,22 @@
         <mark key="^" line="166" column="16" />
         <mark key="." line="166" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyCheckbox/SurveyCheckbox.story.tsx" timestamp="1559330176704">
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="7" column="7" />
-        <mark key="^" line="22" column="26" />
-        <mark key="." line="7" column="7" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyPage/SurveyQuestions/SurveyQuestion.tsx" timestamp="1559844815938">
-        <mark key="[" line="14" column="27" />
-        <mark key="]" line="14" column="28" />
-        <mark key="^" line="14" column="28" />
-        <mark key="." line="14" column="28" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/Auth/AuthSelectors.js" timestamp="1551905777652">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/index.ts" timestamp="1560377806391">
-        <mark key="[" line="33" column="23" />
-        <mark key="]" line="33" column="23" />
-        <mark key="^" line="33" column="23" />
-        <mark key="." line="33" column="23" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-cloud-functions/README.md" timestamp="1552679238257">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="62" />
-        <mark key="^" line="8" column="62" />
-        <mark key="." line="8" column="62" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/UserProfile/UserProfileEditForm.js" timestamp="1551982685448">
-        <mark key="[" line="25" column="15" />
-        <mark key="]" line="25" column="30" />
-        <mark key="." line="25" column="30" />
-        <mark key="^" line="25" column="30" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/index.html" timestamp="1550588834526">
-        <mark key="[" line="13" column="41" />
-        <mark key="]" line="14" column="50" />
-        <mark key="^" line="14" column="50" />
-        <mark key="." line="14" column="50" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/LoginPage/LoginPageContainer.js" timestamp="1551201727000">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="28" />
-        <mark key="^" line="5" column="28" />
-        <mark key="." line="5" column="28" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentMethodUpdatePage/stripe.css" timestamp="1552069559027">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/Common/Buttons.js" timestamp="1552073328339">
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="18" column="25" />
-        <mark key="^" line="18" column="25" />
-        <mark key="." line="18" column="25" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyQuestions/SurveyQuestions.tsx" timestamp="1559660596641">
-        <mark key="[" line="64" column="10" />
-        <mark key="]" line="64" column="15" />
-        <mark key="." line="64" column="15" />
-        <mark key="^" line="64" column="15" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/__tests__/SignUp/ReferralPage/ReferralPage.spec.js" timestamp="1550679468741">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="33" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="6" column="16" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/SignUp/ReferralPage/ReferralPage.js" timestamp="1552076657915">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="1" column="33" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-puchase-flow/package.json" timestamp="1558551133124">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-        <mark key="^" line="2" column="19" />
-      </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/ReserveDeliveryPage/Scheduler/DateSelector/DateCardContainer.tsx" timestamp="1561474234486">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/jest.config.js" timestamp="1552082984094">
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="10" column="36" />
-        <mark key="." line="10" column="36" />
-        <mark key="^" line="10" column="36" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyPage/SurveyQuestions/SurveyCheckbox/SurveyCheckbox.tsx" timestamp="1559855233768">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="90" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/Common/FormFields.js" timestamp="1552409334440">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="6" column="16" />
-        <mark key="^" line="6" column="16" />
-        <mark key="." line="6" column="16" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-firestore/.eslintrc" timestamp="1550522118198">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="31" />
-        <mark key="." line="1" column="31" />
-        <mark key="^" line="1" column="31" />
-      </file>
       <file name="/Dummy.txt" timestamp="1559842530767">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/Handler.tsx" timestamp="1559749605113">
-        <mark key="[" line="68" column="6" />
-        <mark key="]" line="68" column="6" />
-        <mark key="." line="68" column="6" />
-        <mark key="^" line="69" column="3" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/__tests__/UserProfile/UserProfileUtils.spec.js" timestamp="1552665405176">
-        <mark key="[" line="5" column="66" />
-        <mark key="]" line="5" column="69" />
-        <mark key="^" line="5" column="69" />
-        <mark key="." line="5" column="69" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/__tests__/LoginPage/LoginPage.spec.js" timestamp="1551199518862">
-        <mark key="[" line="7" column="43" />
-        <mark key="]" line="7" column="60" />
-        <mark key="." line="7" column="60" />
-        <mark key="^" line="7" column="60" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyQuestions/SurveyQuestions.test.ts" timestamp="1559329023735">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="52" />
-        <mark key="^" line="40" column="63" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/PageContainer/CheckoutPageContainer.test.tsx" timestamp="1560379440582">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="60" />
-        <mark key="^" line="21" column="25" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/__tests__/Payment/PaymentMethodUpdatePage/PaymentMethodUpdatePage.spec.js" timestamp="1552594890748">
-        <mark key="[" line="23" column="25" />
-        <mark key="]" line="24" column="24" />
-        <mark key="." line="24" column="24" />
-        <mark key="^" line="24" column="24" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/SignUpPage/SignUpPageActionTypes.js" timestamp="1549562988499">
-        <mark key="[" line="0" column="44" />
-        <mark key="]" line="1" column="57" />
-        <mark key="^" line="1" column="57" />
-        <mark key="." line="1" column="57" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/__tests__/HomePage/HomePage.spec.js" timestamp="1551987890456">
-        <mark key="[" line="47" column="55" />
-        <mark key="]" line="47" column="56" />
-        <mark key="." line="47" column="56" />
-        <mark key="^" line="47" column="55" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/__tests__/NotFoundPage/NotFoundPage.spec.js" timestamp="1549320405333">
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="13" column="46" />
-        <mark key="." line="13" column="46" />
-        <mark key="^" line="13" column="46" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/__tests__/SignUp/ZipCodePage/ZipCodePage.spec.js" timestamp="1550608950625">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="43" />
-        <mark key="^" line="8" column="57" />
-        <mark key="." line="8" column="57" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/SignUpPage/SignUpPageSelectors.js" timestamp="1549567318225">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="5" column="11" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/canopy/canopy-web/app/WelcomePage/WelcomePage.js" timestamp="1551113177536">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/ReserveDeliveryPage/Scheduler/DateSelector/DateCardCarouselArrow.tsx" timestamp="1561478691173">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="59" />
+        <mark key="^" line="25" column="55" />
+        <mark key="." line="33" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="8" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyPage/PostPurchaseSurvey.generated.ts" />
       <jump line="49" column="54" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyQuestions/SurveyQuestion.tsx" />
       <jump line="5" column="9" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyQuestions/SurveyQuestion.tsx" />
       <jump line="60" column="26" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyQuestions/SurveyQuestion.tsx" />
@@ -696,6 +180,7 @@
       <jump line="8" column="13" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/ReserveDeliveryPage/Scheduler/DateSelector/DateCardCarousel.tsx" />
       <jump line="69" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/ReserveDeliveryPage/Scheduler/DateSelector/DateCardCarousel.tsx" />
       <jump line="39" column="6" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/ReserveDeliveryPage/Scheduler/Scheduler.tsx" />
+      <jump line="33" column="9" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/carousel/NavigationButton.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -707,55 +192,55 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhdmFpbGFibGVEZWxpdmVyaWVzLmxlbmd0aCkK</text>
+        <text encoding="base64">ICBkaXNwbGF5OiAke3Byb3BzID0+IChwcm9wcy50aGljayA/ICdub25lJyA6ICdibG9jaycpfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>12</text>
+        <text>block</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTa2lwXD4=</text>
+        <text encoding="base64">XDxTdHlsZWRDaGV2cm9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgRGl2aWRlciA9IHN0eWxlZC5kaXZgCiAgYm9yZGVyOiBzb2xpZCAxcHggJHtvZmZCbGFja307CiAgaGVpZ2h0OiAxcHg7CiAgbWFyZ2luLXRvcDogNTBweDsKICB3aWR0aDogNjBweDsKYDsK</text>
+        <text encoding="base64">ICB2aXNpYmlsaXR5OiAke3Byb3BzID0+IChwcm9wcy50aGljayA/ICdoaWRkZW4nIDogJ3Nob3cnKX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhdmFpbGFibGVEZWxpdmVyaWVzLmxlbmd0aCkK</text>
+        <text encoding="base64">ICBkaXNwbGF5OiAke3Byb3BzID0+IChwcm9wcy50aGljayA/ICdub25lJyA6ICdibG9jaycpfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICA6ICgK</text>
+        <text encoding="base64">ICB0aGljazogdHJ1ZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0aGljazogdHJ1ZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPENvbnRhaW5lcj4KICAgICAgICA8SGVhZGluZz4KICAgICAgICAgIDxGb3JtYXR0ZWRNZXNzYWdlIGlkPSJwZ1Bvc3RQdXJjaGFzZUZsb3cuc2NoZWR1bGVyLmhlYWRpbmciIC8+CiAgICAgICAgPC9IZWFkaW5nPgogICAgICAgIDxCb2R5PgogICAgICAgICAgPEZvcm1hdHRlZE1lc3NhZ2UgaWQ9InBnUG9zdFB1cmNoYXNlRmxvdy5zY2hlZHVsZXIuYm9keSIgLz4KICAgICAgICAgIDxEYXRlU2VsZWN0b3Igey4uLnByb3BzfSAvPgogICAgICAgIDwvQm9keT4KICAgICAgICA8RGl2aWRlciAvPgogICAgICAgIDxDb3B5VXJsIC8+CiAgICAgIDwvQ29udGFpbmVyPgo=</text>
+        <text encoding="base64">ICB0b3A6IC05MCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPFdyYXBwZXI+CiAgICAgICAgPENvbnRhaW5lcj4KICAgICAgICAgIDxTY2hlZHVsZXJDb250YWluZXI+CiAgICAgICAgICAgIDxIZWFkaW5nPgogICAgICAgICAgICAgIDxGb3JtYXR0ZWRNZXNzYWdlIGlkPSJwZ1Bvc3RQdXJjaGFzZUZsb3cuc2NoZWR1bGVyLnJlZGVzaWduSGVhZGluZyIgLz4KICAgICAgICAgICAgPC9IZWFkaW5nPgogICAgICAgICAgICA8Qm9keVdyYXBwZXI+CiAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICA8Rm9ybWF0dGVkTWVzc2FnZSBpZD0icGdQb3N0UHVyY2hhc2VGbG93LnNjaGVkdWxlci5yZWRlc2lnbkJvZHkiIC8+CiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgPEZvcm1hdHRlZE1lc3NhZ2UgaWQ9InBnUG9zdFB1cmNoYXNlRmxvdy5zY2hlZHVsZXIucmVkZXNpZ25TdWJCb2R5IiAvPgogICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgPC9Cb2R5V3JhcHBlcj4KICAgICAgICAgICAgPERhdGVTZWxlY3RvciB7Li4ucHJvcHN9IC8+CiAgICAgICAgICA8L1NjaGVkdWxlckNvbnRhaW5lcj4KICAgICAgICAgIDxDb3B5VXJsIC8+CiAgICAgICAgPC9Db250YWluZXI+CiAgICAgIDwvV3JhcHBlcj4K</text>
+        <text encoding="base64">ICBib3R0b206IDkwLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvV3JhcHBlcj4K</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgQmVhcmluZyA9ICd0b3AnIHwgJ2JvdHRvbScgfCAnbGVmdCcgfCAncmlnaHQnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxXcmFwcGVyPgogICAgICA8Q29udGFpbmVyPgogICAgICAgIDxTY2hlZHVsZXJDb250YWluZXI+CiAgICAgICAgICA8SGVhZGluZz4KICAgICAgICAgICAgPEZvcm1hdHRlZE1lc3NhZ2UgaWQ9InBnUG9zdFB1cmNoYXNlRmxvdy5zY2hlZHVsZXIucmVkZXNpZ25IZWFkaW5nIiAvPgogICAgICAgICAgPC9IZWFkaW5nPgogICAgICAgICAgPEJvZHlXcmFwcGVyPgogICAgICAgICAgICA8cD4KICAgICAgICAgICAgICA8Rm9ybWF0dGVkTWVzc2FnZSBpZD0icGdQb3N0UHVyY2hhc2VGbG93LnNjaGVkdWxlci5yZWRlc2lnbkJvZHkiIC8+CiAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgPEZvcm1hdHRlZE1lc3NhZ2UgaWQ9InBnUG9zdFB1cmNoYXNlRmxvdy5zY2hlZHVsZXIucmVkZXNpZ25TdWJCb2R5IiAvPgogICAgICAgICAgICA8L3A+CiAgICAgICAgICA8L0JvZHlXcmFwcGVyPgogICAgICAgICAgPERhdGVTZWxlY3RvciB7Li4ucHJvcHN9IC8+CiAgICAgICAgPC9TY2hlZHVsZXJDb250YWluZXI+CiAgICAgICAgPENvcHlVcmwgLz4KICAgICAgPC9Db250YWluZXI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBmaXggdGhpcyB0ZXN0IGJlZm9yZSBQUgo=</text>
+        <text encoding="base64">Y29uc3QgZ2V0Vmlld2JveCA9IChiZWFyaW5nPzogQmVhcmluZykgPT4KICBiZWFyaW5nID09PSAndG9wJyB8fCBiZWFyaW5nID09PSAnYm90dG9tJyA/ICcwIDAgMTEgMjInIDogJzAgMCAyMiAxMSc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTa2lwXD4=</last-search>
+      <last-search encoding="base64">XDxTdHlsZWRDaGV2cm9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTa2lwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxTdHlsZWRDaGV2cm9uXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>ajv</last-substitute>
       <last-dir>1</last-dir>
@@ -763,7 +248,6 @@
     </search>
     <history>
       <history-search>
-        <entry>header</entry>
         <entry>sticky</entry>
         <entry encoding="base64">XDxTY3JvbGxUb1RvcFw+</entry>
         <entry encoding="base64">XDxpbnRsXD4=</entry>
@@ -783,6 +267,7 @@
         <entry encoding="base64">XDxTdHlsZWREaXZcPg==</entry>
         <entry encoding="base64">XDxSZXNlcnZlXD4=</entry>
         <entry encoding="base64">XDxTa2lwXD4=</entry>
+        <entry encoding="base64">XDxTdHlsZWRDaGV2cm9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>280</entry>
