@@ -63,6 +63,11 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/carousel/ChevronThick.tsx" timestamp="1561574795098">
+        <mark key="[" line="14" column="6" />
+        <mark key="]" line="14" column="6" />
+        <mark key="." line="14" column="6" />
+      </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentMethodUpdatePage/PaymentMethodUpdateFormContainer.js" timestamp="1552514129729">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="19" />
@@ -159,7 +164,12 @@
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/carousel/NavigationButton.tsx" timestamp="1561564151990" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/carousel/NavigationButton.tsx" timestamp="1561577350063">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="6" />
+        <mark key="^" line="22" column="6" />
+        <mark key="." line="22" column="6" />
+      </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyPage/PostPurchaseSurvey.ts" timestamp="1559313498033">
         <mark key="'" line="314" column="4" />
       </file>
@@ -186,6 +196,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/right-arrow (1).svg" timestamp="1561575479210">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="6" />
       </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/SignUp/SignUpPage/SignUpPageActionTypes.js" timestamp="1549663609629">
         <mark key="[" line="0" column="82" />
@@ -288,12 +302,12 @@
         <mark key="^" line="8" column="68" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/ReserveDeliveryPage/Scheduler/DateSelector/DateCardCarousel.tsx" timestamp="1561563980940">
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/ReserveDeliveryPage/Scheduler/DateSelector/DateCardCarousel.tsx" timestamp="1561574490339">
         <mark key="'" line="5" column="18" />
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="7" column="53" />
-        <mark key="." line="8" column="47" />
-        <mark key="^" line="7" column="53" />
+        <mark key="[" line="12" column="57" />
+        <mark key="]" line="12" column="74" />
+        <mark key="." line="12" column="74" />
+        <mark key="^" line="12" column="74" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/header/HeaderNav.story.tsx" timestamp="1560374605934">
         <mark key="'" line="66" column="17" />
@@ -328,6 +342,10 @@
         <mark key="]" line="16" column="26" />
         <mark key="^" line="16" column="26" />
         <mark key="." line="16" column="26" />
+      </file>
+      <file name="$USER_HOME$/Downloads/right-arrow-hover (1).svg" timestamp="1561575530833">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="8" column="6" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/apps/members/src/index.tsx" timestamp="1558455080636">
         <mark key="'" line="91" column="16" />
@@ -395,6 +413,9 @@
         <mark key="." line="120" column="32" />
         <mark key="^" line="120" column="32" />
       </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/accessories/UpsellView.tsx" timestamp="1561573513689">
+        <mark key="'" line="41" column="14" />
+      </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/SignUpPage/SignUpPageContainer.js" timestamp="1549562121558">
         <mark key="[" line="14" column="2" />
         <mark key="]" line="14" column="17" />
@@ -413,6 +434,12 @@
         <mark key="]" line="166" column="16" />
         <mark key="^" line="166" column="16" />
         <mark key="." line="166" column="16" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/carousel/DateCardChevron.tsx" timestamp="1561576464176">
+        <mark key="[" line="17" column="61" />
+        <mark key="]" line="17" column="61" />
+        <mark key="^" line="17" column="61" />
+        <mark key="." line="17" column="61" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/TermsAndSubmitView.tsx" timestamp="1559846318981">
         <mark key="'" line="32" column="2" />
@@ -557,12 +584,12 @@
         <mark key="." line="7" column="60" />
         <mark key="^" line="7" column="60" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/ReserveDeliveryPage/Scheduler/DateSelector/DateCardCarouselArrow.tsx" timestamp="1561563459160">
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/ReserveDeliveryPage/Scheduler/DateSelector/DateCardCarouselArrow.tsx" timestamp="1561577306886">
         <mark key="'" line="21" column="28" />
-        <mark key="[" line="1" column="73" />
-        <mark key="]" line="1" column="75" />
-        <mark key="." line="1" column="75" />
-        <mark key="^" line="1" column="75" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="53" column="53" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyQuestions/SurveyQuestions.test.ts" timestamp="1559329023735">
         <mark key="[" line="0" column="0" />
@@ -623,9 +650,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="324" column="23" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/graphql/types.ts" />
-      <jump line="376" column="4" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/graphql/types.ts" />
-      <jump line="90" column="25" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/graphql/types.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/jupiter/package.json" />
       <jump line="66" column="38" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyPage/SurveyQuestions/SurveyQuestions.tsx" />
       <jump line="55" column="12" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyPage/SurveyQuestions/SurveyQuestions.tsx" />
@@ -723,6 +747,9 @@
       <jump line="65" column="6" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/carousel/NavigationButton.tsx" />
       <jump line="47" column="4" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/carousel/NavigationButton.tsx" />
       <jump line="24" column="38" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/carousel/NavigationButton.tsx" />
+      <jump line="92" column="6" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/accessories/UpsellView.tsx" />
+      <jump line="32" column="13" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/accessories/UpsellView.tsx" />
+      <jump line="41" column="14" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/accessories/UpsellView.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -733,56 +760,56 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>(props.thick ? StyledChevronThick : StyledChevronThin)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRvcDogNTAlOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>(props.thick ? StyledChevronThick : StyledChevronThin)</text>
+        <text>LightNavigationButton</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQcm9wc1w+</text>
+        <text encoding="base64">XDxBcnJvd0NvbnRhaW5lclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwb3NpdGlvbjogYWJzb2x1dGU7Cg==</text>
+        <text encoding="base64">ICAke3Byb3BzID0+IHsKICAgIGlmIChwcm9wcy5pc0ZvckRhdGVDYXJkQ2Fyb3VzZWwpIHsKICAgICAgaWYgKHByb3BzLnRoaWNrKSB7CiAgICAgICAgcmV0dXJuIFN0eWxlZERhdGVDYXJkQ2hldnJvblRoaWNrOwogICAgICB9IGVsc2UgewogICAgICAgIHJldHVybiBTdHlsZWREYXRlQ2FyZENoZXZyb25UaGluOwogICAgICB9CiAgICB9CiAgICByZXR1cm4gU3R5bGVkQ2hldnJvblRoaW47CiAgfX0gewogICAgZGlzcGxheTogYmxvY2s7CiAgICBoZWlnaHQ6IDE0cHg7CiAgICBsZWZ0OiA1MCU7CiAgICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgICB0b3A6IDUwJTsKICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpOwoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtib29sfSBmcm9tICdhd3Mtc2RrL2NsaWVudHMvc2lnbmVyJzsK</text>
+        <text encoding="base64">ICAgIHRvcDogNTAlOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTGlnaHROYXZpZ2F0aW9uQnV0dG9uIH0gZnJvbSAnQGVjb21tL2Nhcm91c2VsJzsK</text>
+        <text encoding="base64">ICBpZiAocHJvcHMuaXNGb3JEYXRlQ2FyZENhcm91c2VsKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gU3R5bGVkQ2hldnJvblRoaW47Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IExlZnRBcnJvdyA9IHN0eWxlZChMaWdodE5hdmlnYXRpb25CdXR0b24pLmF0dHJzKHsKICBiZWFyaW5nOiAnbGVmdCcsCn0pYAogICR7YXJyb3dTdHlsZXN9CiAgZGlzcGxheTogJHtwcm9wcyA9PiAocHJvcHMudGhpY2sgPyAnbm9uZScgOiAnYmxvY2snKX07CiAgLnNsaWNrLXByZXY6aG92ZXIgJiB7CiAgICBkaXNwbGF5OiAke3Byb3BzID0+IChwcm9wcy50aGljayA/ICdibG9jaycgOiAnbm9uZScpfTsKICB9CiAgLnNsaWNrLWRpc2FibGVkOmhvdmVyICYgewogICAgZGlzcGxheTogJHtwcm9wcyA9PiAocHJvcHMudGhpY2sgPyAnbm9uZScgOiAnYmxvY2snKX07CiAgfQogIGxlZnQ6IC00MHB4ICFpbXBvcnRhbnQ7CmA7CgpleHBvcnQgY29uc3QgUmlnaHRBcnJvdyA9IHN0eWxlZChMaWdodE5hdmlnYXRpb25CdXR0b24pLmF0dHJzKHsKICBiZWFyaW5nOiAncmlnaHQnLAp9KWAKICAke2Fycm93U3R5bGVzfQogIGRpc3BsYXk6ICR7cHJvcHMgPT4gKHByb3BzLnRoaWNrID8gJ25vbmUnIDogJ2Jsb2NrJyl9OwogIC5zbGljay1uZXh0OmhvdmVyICYgewogICAgZGlzcGxheTogJHtwcm9wcyA9PiAocHJvcHMudGhpY2sgPyAnYmxvY2snIDogJ25vbmUnKX07CiAgfQogIC5zbGljay1kaXNhYmxlZDpob3ZlciAmIHsKICAgIGRpc3BsYXk6ICR7cHJvcHMgPT4gKHByb3BzLnRoaWNrID8gJ25vbmUnIDogJ2Jsb2NrJyl9OwogIH0KICByaWdodDogLTQwcHggIWltcG9ydGFudDsK</text>
+        <text encoding="base64">Ly8gY29uc3QgRGF0ZUNhcmRDaGV2cm9uVGhpY2s6IFJlYWN0LkZDPFByb3BzPiA9ICh7IGJlYXJpbmcsIC4uLmF0dHJzIH0pID0+ICgKLy8gICA8c3ZnIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDExIDIyIiB7Li4uYXR0cnN9PgovLyAgICAgPHBhdGgKLy8gICAgICAgdHJhbnNmb3JtPXtiZWFyaW5nICYmIGByb3RhdGUoJHtiZWFyaW5nTWFwW2JlYXJpbmddfSA2IDExKWB9Ci8vICAgICAgIGZpbGw9IiMxODFBMUQiCi8vICAgICAgIGZpbGxSdWxlPSJub256ZXJvIgovLyAgICAgICBzdHJva2U9IiMxODFBMUQiCi8vICAgICAgIHN0cm9rZVdpZHRoPSIuNSIKLy8gICAgICAgZD0iTTEwLjA5IDEwLjk3N0wwIDIwLjU2OC40NTYgMjEgMTEgMTAuOTc3LjUwNiAxbC0uNDU3LjQzMnoiCi8vICAgICAvPgovLyAgIDwvc3ZnPgovLyApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxMZWZ0QXJyb3cgdGhpY2sgLz4KICAgIDxMZWZ0QXJyb3cgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IExlZnRBcnJvd1RoaWNrID0gc3R5bGVkKExpZ2h0TmF2aWdhdGlvbkJ1dHRvbikuYXR0cnMoewogIGJlYXJpbmc6ICdsZWZ0JywKICB0aGljazogdHJ1ZSwKfSlgCiAgJHthcnJvd1N0eWxlc30KICBkaXNwbGF5OiBub25lOwogIC5zbGljay1wcmV2OmhvdmVyICYgeyAKICAgIGRpc3BsYXk6IGJsb2NrOwogIH0KICAuc2xpY2stZGlzYWJsZWQ6aG92ZXIgJiB7CiAgICBkaXNwbGF5OiBub25lOwogIH0KICBsZWZ0OiAtNDBweCAhaW1wb3J0YW50OwpgOwoKZXhwb3J0IGNvbnN0IFJpZ2h0QXJyb3dUaGljayA9IHN0eWxlZChMaWdodE5hdmlnYXRpb25CdXR0b24pLmF0dHJzKHsKICBiZWFyaW5nOiAncmlnaHQnLAogIHRoaWNrOiB0cnVlLAp9KWAKICAke2Fycm93U3R5bGVzfQogIGRpc3BsYXk6IG5vbmU7CiAgLnNsaWNrLW5leHQ6aG92ZXIgJiB7IAogICAgZGlzcGxheTogYmxvY2s7CiAgfQogIC5zbGljay1kaXNhYmxlZDpob3ZlciAmIHsKICAgIGRpc3BsYXk6IG5vbmU7CiAgfQogIHJpZ2h0OiAtNDBweCAhaW1wb3J0YW50OwpgOwoKLy8gZXhwb3J0IGNvbnN0IExlZnRBcnJvdyA9IHN0eWxlZChMaWdodE5hdmlnYXRpb25CdXR0b24pLmF0dHJzKHsKLy8gICBiZWFyaW5nOiAnbGVmdCcsCi8vIH0pYAovLyAgICR7YXJyb3dTdHlsZXN9Ci8vICAgZGlzcGxheTogYmxvY2s7Ci8vICAgLnNsaWNrLXByZXY6aG92ZXIgJiB7Ci8vICAgICBkaXNwbGF5OiBub25lOwovLyAgIH0KLy8gICAuc2xpY2stZGlzYWJsZWQ6aG92ZXIgJiB7Ci8vICAgICBkaXNwbGF5OiBibG9jazsKLy8gICB9Ci8vICAgbGVmdDogLTQwcHggIWltcG9ydGFudDsKLy8gYDsKLy8KLy8gZXhwb3J0IGNvbnN0IFJpZ2h0QXJyb3cgPSBzdHlsZWQoTGlnaHROYXZpZ2F0aW9uQnV0dG9uKS5hdHRycyh7Ci8vICAgYmVhcmluZzogJ3JpZ2h0JywKLy8gfSlgCi8vICAgJHthcnJvd1N0eWxlc30KLy8gICBkaXNwbGF5OiBibG9jazsKLy8gICAuc2xpY2stbmV4dDpob3ZlciAmIHsKLy8gICAgIGRpc3BsYXk6IG5vbmU7Ci8vICAgfQovLyAgIC5zbGljay1kaXNhYmxlZDpob3ZlciAmIHsKLy8gICAgIGRpc3BsYXk6IGJsb2NrOwovLyAgIH0KLy8gICByaWdodDogLTQwcHggIWltcG9ydGFudDsKLy8gYDsK</text>
+        <text encoding="base64">PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB2aWV3Qm94PSIwIDAgOCAxNCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgOCAxNDsiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8cGF0aCAvPgo8L3N2Zz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxSaWdodEFycm93IHRoaWNrIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgc3Ryb2tlPSIjMDAwMDAwIgogICAgICBzdHJva2VXaWR0aD0iMC43NSIK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQcm9wc1w+</last-search>
+      <last-search encoding="base64">XDxBcnJvd0NvbnRhaW5lclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQcm9wc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxBcnJvd0NvbnRhaW5lclw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>ajv</last-substitute>
       <last-dir>1</last-dir>
@@ -790,8 +817,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRMb2NhbGl6ZWRTdHJpbmdzXD4=</entry>
-        <entry encoding="base64">XDx0b0xvY2FsZVw+</entry>
         <entry encoding="base64">XDxJbnRlcm5hdGlvbmFsaXplXD4=</entry>
         <entry>intl</entry>
         <entry encoding="base64">XDxXcmFwcGVkQ2hlY2tvdXRIZWFkZXJcPg==</entry>
@@ -810,6 +835,8 @@
         <entry encoding="base64">XDxzbGlkZUNvdW50XD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50U2xpZGVcPg==</entry>
         <entry encoding="base64">XDxQcm9wc1w+</entry>
+        <entry encoding="base64">XDxMZWZ0QXJyb3dcPg==</entry>
+        <entry encoding="base64">XDxBcnJvd0NvbnRhaW5lclw+</entry>
       </history-search>
       <history-cmd>
         <entry>280</entry>
