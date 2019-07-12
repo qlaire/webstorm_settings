@@ -63,11 +63,6 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/carousel/ChevronThick.tsx" timestamp="1561574795098">
-        <mark key="[" line="14" column="6" />
-        <mark key="]" line="14" column="6" />
-        <mark key="." line="14" column="6" />
-      </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/Payment/PaymentMethodUpdatePage/PaymentMethodUpdateFormContainer.js" timestamp="1552514129729">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="19" />
@@ -236,6 +231,7 @@
         <mark key="^" line="47" column="21" />
         <mark key="." line="47" column="21" />
       </file>
+      <file name="$USER_HOME$/Development/jupiter/apps/test-runner/scripts/utils/createJestConfig.js" timestamp="1562960751865" />
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/Header/HeaderView/index.tsx" timestamp="1560357786938">
         <mark key="[" line="26" column="7" />
         <mark key="]" line="26" column="8" />
@@ -250,9 +246,9 @@
       </file>
       <file name="$USER_HOME$/Development/jupiter/package.json" timestamp="1562959274546">
         <mark key="'" line="116" column="14" />
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
       </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/SignUpPage/SignUpPageSagas.js" timestamp="1549563156298">
         <mark key="[" line="0" column="0" />
@@ -356,6 +352,12 @@
         <mark key="^" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
+      <file name="$USER_HOME$/Development/jupiter/apps/test-runner/setupTests.ts" timestamp="1562960606447">
+        <mark key="[" line="5" column="50" />
+        <mark key="]" line="5" column="50" />
+        <mark key="^" line="5" column="50" />
+        <mark key="." line="5" column="50" />
+      </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/SurveyPage/SurveyQuestions/SurveyCreateSubmission.test.ts" timestamp="1559844004205">
         <mark key="[" line="20" column="76" />
         <mark key="]" line="20" column="80" />
@@ -409,9 +411,6 @@
         <mark key="]" line="120" column="32" />
         <mark key="." line="120" column="32" />
         <mark key="^" line="120" column="32" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/accessories/UpsellView.tsx" timestamp="1561573513689">
-        <mark key="'" line="41" column="14" />
       </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/SignUpPage/SignUpPageContainer.js" timestamp="1549562121558">
         <mark key="[" line="14" column="2" />
@@ -521,11 +520,6 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/ReserveDeliveryPage/Scheduler/DateSelector/DateCardContainer.tsx" timestamp="1561474234486">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/jest.config.js" timestamp="1552082984094">
         <mark key="[" line="10" column="18" />
