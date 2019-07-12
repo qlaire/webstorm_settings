@@ -140,11 +140,11 @@
         <mark key="." line="64" column="25" />
         <mark key="^" line="64" column="25" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/Success/Success.tsx" timestamp="1562949386890">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="39" column="15" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/Success/Success.tsx" timestamp="1562950098843">
+        <mark key="[" line="25" column="74" />
+        <mark key="]" line="25" column="74" />
+        <mark key="^" line="25" column="74" />
+        <mark key="." line="25" column="74" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/cart/summary/AmountCell.test.tsx" timestamp="1560374543166">
         <mark key="'" line="49" column="42" />
@@ -160,6 +160,12 @@
         <mark key="]" line="13" column="31" />
         <mark key="^" line="13" column="31" />
         <mark key="." line="13" column="31" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/Success/Success.test.tsx" timestamp="1562950629403">
+        <mark key="[" line="56" column="48" />
+        <mark key="]" line="56" column="48" />
+        <mark key="." line="56" column="48" />
+        <mark key="^" line="56" column="48" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/apps/uikit/index.tsx" timestamp="1560374677757">
         <mark key="'" line="91" column="14" />
@@ -773,11 +779,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE86IHVzZSBsb2NhbGl6ZWQgZGF0ZSB0aW1lIGZvcm1hdAo=</text>
+      <register name="&quot;" type="4">
+        <text>.only</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IWlzWFBPICYmIHN0YXJ0ICYmIGVuZDs=</text>
+        <text>.only</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXNlcnZlXD4=</text>
