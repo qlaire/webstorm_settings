@@ -140,6 +140,12 @@
         <mark key="." line="64" column="25" />
         <mark key="^" line="64" column="25" />
       </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/Success/Success.tsx" timestamp="1562949386890">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="39" column="15" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/cart/summary/AmountCell.test.tsx" timestamp="1560374543166">
         <mark key="'" line="49" column="42" />
       </file>
@@ -393,11 +399,11 @@
         <mark key="." line="11" column="18" />
         <mark key="^" line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/localized-strings/en-US/index.ts" timestamp="1561580286778">
-        <mark key="[" line="1693" column="0" />
-        <mark key="]" line="1693" column="0" />
-        <mark key="^" line="1694" column="15" />
-        <mark key="." line="1693" column="0" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/localized-strings/en-US/index.ts" timestamp="1562947398249">
+        <mark key="[" line="1595" column="49" />
+        <mark key="]" line="1595" column="58" />
+        <mark key="^" line="1595" column="58" />
+        <mark key="." line="1595" column="58" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/reviews/inputs/shared.ts" timestamp="1561487826148">
         <mark key="'" line="39" column="54" />
@@ -489,12 +495,6 @@
         <mark key="]" line="25" column="30" />
         <mark key="." line="25" column="30" />
         <mark key="^" line="25" column="30" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/ReserveDeliveryPage/Scheduler/Scheduler.tsx" timestamp="1561586751692">
-        <mark key="[" line="79" column="13" />
-        <mark key="]" line="79" column="14" />
-        <mark key="." line="79" column="14" />
-        <mark key="^" line="79" column="31" />
       </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/index.html" timestamp="1550588834526">
         <mark key="[" line="13" column="41" />
@@ -773,11 +773,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>30px</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE86IHVzZSBsb2NhbGl6ZWQgZGF0ZSB0aW1lIGZvcm1hdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>30px</text>
+        <text encoding="base64">IWlzWFBPICYmIHN0YXJ0ICYmIGVuZDs=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXNlcnZlXD4=</text>
@@ -786,34 +786,34 @@
         <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiAkeyhwcm9wczogeyBzZWxlY3RlZDogYm9vbGVhbiB9KSA9PiAocHJvcHMuc2VsZWN0ZWQgPyBzbGF0ZSA6IHdoaXRlKX07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6ICR7JHtvZmZXaGl0ZX07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE86IHVzZSBsb2NhbGl6ZWQgZGF0ZSB0aW1lIGZvcm1hdAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiA2NzVweDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBtaW4td2lkdGg6IDkwcHg7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygndGhlIGRhdGEnLCBkYXRhKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTAxcHg7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBzaG91bGRTaG93VGltZVNsb3QgPSAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc3ViaGVhZGluZzogJ0FsbG93IHRoZSByZWNpcGllbnQgdG8gc2NoZWR1bGUgdGhlIGRlbGl2ZXJ5IGJ5IHNoYXJpbmcgdGhpcyBwYWdlIHdpdGggdGhlIGxpbmsgYmVsb3c6JywK</text>
+      <register name="5" type="4">
+        <text encoding="base64">c2hvdWxkU2hvd1RpbWVTbG90ICYmICgKICAgICAgICAgICk=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxGb3JtYXR0ZWRNZXNzYWdlIGlkPSJwZ1Bvc3RQdXJjaGFzZUZsb3cuZGF0ZVNlbGVjdG9yLm5lZWRNb3JlVGltZSIgLz4KICAgICAgICAgIDxiciAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEZvcm1hdHRlZE1lc3NhZ2UKICAgICAgICAgICAgICBpZD0icGdQb3N0UHVyY2hhc2VGbG93LnN1Y2Nlc3MuaGVhZGluZ1RpbWUiCiAgICAgICAgICAgICAgLy8gVE9ETzogdXNlIGxvY2FsaXplZCBkYXRlIHRpbWUgZm9ybWF0CiAgICAgICAgICAgICAgdmFsdWVzPXt7CiAgICAgICAgICAgICAgICBzdGFydDogdG9UaW1lKHN0YXJ0KS5mb3JtYXQoJ2hhJyksCiAgICAgICAgICAgICAgICBlbmQ6IHRvVGltZShlbmQpLmZvcm1hdCgnaGEnKSwKICAgICAgICAgICAgICB9fQogICAgICAgICAgICAvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmVkZXNpZ25OZWVkTW9yZVRpbWU6ICcnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">aXNQdXJjaGFzZXIgJiYgKAogICAgICAgIDxTa2lwPgogICAgICAgICAgPEZvcm1hdHRlZE1lc3NhZ2UgaWQ9InBnUG9zdFB1cmNoYXNlRmxvdy5kYXRlU2VsZWN0b3IubmVlZE1vcmVUaW1lIiAvPgogICAgICAgICAgPGJyIC8+CiAgICAgICAgICA8U2tpcExpbmsgaWQ9e2lkfT4KICAgICAgICAgICAgPEZvcm1hdHRlZE1lc3NhZ2UgaWQ9InBnUG9zdFB1cmNoYXNlRmxvdy5kYXRlU2VsZWN0b3Iuc2NoZWR1bGVMYXRlciIgLz4KICAgICAgICAgIDwvU2tpcExpbms+CiAgICAgICAgPC9Ta2lwPgogICAgICAp</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zdCBkZWxpdmVyeURhdGUgPSB0b1RpbWUoZGF0ZSk7CiAgY29uc3QgZGVsaXZlcnlTdGFydCA9IHRvVGltZShzdGFydCk7CiAgY29uc3QgZGVsaXZlcnlFbmQgPSB0b1RpbWUoZW5kKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IE5ld0hlYWRpbmcgPSBzdHlsZWQuZGl2YAogICR7aGI0fQpgOwo=</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6ICR7JHtvZmZXaGl0ZX07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
