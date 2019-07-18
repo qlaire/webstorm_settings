@@ -156,11 +156,10 @@
         <mark key="." line="13" column="31" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/Success/Success.test.tsx" timestamp="1562959914432">
-        <mark key="'" line="71" column="28" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="^" line="48" column="20" />
+        <mark key="'" line="104" column="28" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/SignUp/SignUpEventChannel.js" timestamp="1551884040455">
         <mark key="[" line="0" column="47" />
@@ -254,11 +253,12 @@
         <mark key="." line="14" column="5" />
         <mark key="^" line="14" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/package.json" timestamp="1562959274546">
-        <mark key="'" line="116" column="14" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
+      <file name="$USER_HOME$/Development/jupiter/package.json" timestamp="1563463916736">
+        <mark key="'" line="125" column="29" />
+        <mark key="[" line="69" column="63" />
+        <mark key="]" line="69" column="65" />
+        <mark key="." line="69" column="65" />
+        <mark key="^" line="69" column="65" />
       </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/SignUpPage/SignUpPageSagas.js" timestamp="1549563156298">
         <mark key="[" line="0" column="0" />
@@ -659,7 +659,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="19" filename="$USER_HOME$/Development/jupiter/node_modules/@types/react-intl/index.d.ts" />
       <jump line="17" column="7" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/Header/CheckoutHeader.test.tsx" />
       <jump line="90" column="15" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/Header/CheckoutHeader.test.tsx" />
       <jump line="9" column="14" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/Header/CheckoutHeader.test.tsx" />
@@ -759,6 +758,7 @@
       <jump line="1956" column="21" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/localized-strings/en-US/index.ts" />
       <jump line="1912" column="20" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/localized-strings/en-US/index.ts" />
       <jump line="24" column="13" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-post-purchase-flow/layout.tsx" />
+      <jump line="124" column="29" filename="$USER_HOME$/Development/jupiter/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -769,17 +769,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBmbGV4LWRpcmVjdGlvbjogcm93Owo=</text>
+      <register name="&quot;" type="4">
+        <text>members</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">V3JhcHBlcj4=</text>
+        <text>members</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxOZXdDb250YWluZXJcPg==</text>
+        <text>start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8V3JhcHBlcj4K</text>
+        <text encoding="base64">ICAgICJzdGFydC1tZW1iZXJzOmxvY2FsIjogIlJFQUNUX0FQUF9BUElfRU5WPWxvY2FsLWFwaSB5YXJuIHN0YXJ0LW1lbWJlcnMiLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBmbGV4LWRpcmVjdGlvbjogcm93Owo=</text>
@@ -816,9 +816,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxOZXdDb250YWluZXJcPg==</last-search>
+      <last-search>start</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxOZXdDb250YWluZXJcPg==</last-pattern>
+      <last-pattern>start</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>ajv</last-substitute>
       <last-dir>1</last-dir>
@@ -826,7 +826,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWxlY3RlZFN0eWxlc1w+</entry>
         <entry encoding="base64">XDxTdHlsZWRCYXNlTmF2aWdhdGlvbkJ1dHRvblw+</entry>
         <entry encoding="base64">XDxzbGlkZUNvdW50XD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50U2xpZGVcPg==</entry>
@@ -846,6 +845,7 @@
         <entry>jest</entry>
         <entry encoding="base64">XDxzdHJpcEluZGVudHNcPg==</entry>
         <entry encoding="base64">XDxOZXdDb250YWluZXJcPg==</entry>
+        <entry>start</entry>
       </history-search>
       <history-cmd>
         <entry>280</entry>
