@@ -971,12 +971,13 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/Development/playing-with-projections/javascript/src/index.js" timestamp="1569011484430">
+      <file name="$USER_HOME$/Development/playing-with-projections/javascript/src/index.js" timestamp="1569012388164">
         <mark key="'" line="75" column="26" />
         <mark key="j" line="68" column="18" />
-        <mark key="[" line="80" column="39" />
-        <mark key="]" line="80" column="39" />
-        <mark key="." line="80" column="39" />
+        <mark key="[" line="101" column="6" />
+        <mark key="]" line="101" column="7" />
+        <mark key="." line="101" column="7" />
+        <mark key="^" line="101" column="7" />
       </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/SignUpPage/SignUpPageActionTypes.js" timestamp="1549562988499">
         <mark key="[" line="0" column="44" />
@@ -1139,10 +1140,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9qZWN0aW9uXD4=</text>
@@ -1151,34 +1152,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICBtb250aENvdW50c1ttb250aF1bcXVpeklkXSArPSAxOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVpekNvdW50c1txdWl6SWRdID0gMTsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdG9wVGVuID0gc29ydGVkUXVpenplcy5zbGljZSgwLCAxMCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdG9wVGVuID0gc29ydGVkUXVpenplcy5zbGljZSgwLCAxMCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVpekNvdW50c1txdWl6SWRdICs9IDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVpekNvdW50c1txdWl6SWRdID0gMTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBxdWl6SWQgPSBldmVudC5wYXlsb2FkLnF1aXpfaWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVpekNvdW50c1txdWl6SWRdICs9IDE7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXJ0ZWQ6IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHF1aXp6ZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBxdWl6SWQgPSBldmVudC5wYXlsb2FkLnF1aXpfaWQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZXQgcXVpenplcyA9IHt9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgIHN0YXJ0ZWQ6IGZhbHNlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcXVpenplc1dpdGhDb3VudCA9IE9iamVjdC5rZXlzKGdhbWVzKS5mb3JFYWNoKGdhbWUgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHF1aXp6ZXM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
