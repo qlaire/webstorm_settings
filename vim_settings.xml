@@ -851,6 +851,9 @@
         <mark key="^" line="18" column="25" />
         <mark key="." line="18" column="25" />
       </file>
+      <file name="$USER_HOME$/Downloads/B-S-Stride-code-test/src/choc-delivery.ts" timestamp="1575465806782">
+        <mark key="'" line="0" column="7" />
+      </file>
       <file name="$USER_HOME$/Development/canopy/canopy-web/app/SignUp/SignUpSagas.js" timestamp="1552679974013">
         <mark key="'" line="16" column="18" />
         <mark key="[" line="0" column="8" />
@@ -1029,7 +1032,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="14" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/Header/CheckoutHeader.test.tsx" />
       <jump line="88" column="22" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/Header/CheckoutHeader.test.tsx" />
       <jump line="3" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/Header/CheckoutHeader.test.tsx" />
       <jump line="107" column="20" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/Header/CheckoutHeader.test.tsx" />
@@ -1129,6 +1131,7 @@
       <jump line="124" column="29" filename="$USER_HOME$/Development/jupiter/package.json" />
       <jump line="6" column="61" filename="$USER_HOME$/Development/playing-with-projections/javascript/src/EventStore.js" />
       <jump line="65" column="26" filename="$USER_HOME$/Development/playing-with-projections/javascript/src/index.js" />
+      <jump line="0" column="7" filename="$USER_HOME$/Downloads/B-S-Stride-code-test/src/choc-delivery.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1146,7 +1149,7 @@
         <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9qZWN0aW9uXD4=</text>
+        <text encoding="base64">XDxDaG9jVHlwZVV0aWxcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBtb250aENvdW50c1ttb250aF1bcXVpeklkXSArPSAxOwo=</text>
@@ -1186,9 +1189,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9qZWN0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxDaG9jVHlwZVV0aWxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9qZWN0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxDaG9jVHlwZVV0aWxcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>ajv</last-substitute>
       <last-dir>1</last-dir>
@@ -1196,7 +1199,6 @@
     </search>
     <history>
       <history-search>
-        <entry>css</entry>
         <entry encoding="base64">XDxHbG9iYWxTdHlsZVw+</entry>
         <entry encoding="base64">XDxzZW5kUGF5bWVudEluZm9Ub1N0cmlwZVw+</entry>
         <entry>mockchannel</entry>
@@ -1216,6 +1218,7 @@
         <entry>firebase</entry>
         <entry encoding="base64">XDxzZW5kRW1haWxWZXJpZmljYXRpb25cPg==</entry>
         <entry encoding="base64">XDxwcm9qZWN0aW9uXD4=</entry>
+        <entry encoding="base64">XDxDaG9jVHlwZVV0aWxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>280</entry>
