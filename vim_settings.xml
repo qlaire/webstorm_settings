@@ -1,6 +1,58 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxvbkFkZHJlc3NTZWxlY3RcPg==</entry>
+        <entry>what is this</entry>
+        <entry>geo-suggest</entry>
+        <entry>suggest</entry>
+        <entry>geo</entry>
+        <entry encoding="base64">XDx1c2VyRm9jdXNlZFw+</entry>
+        <entry encoding="base64">XDxzZXRSZWZzXD4=</entry>
+        <entry encoding="base64">XDxoYW5kbGVGb2N1c1w+</entry>
+        <entry encoding="base64">XDxvbkZvY3VzXD4=</entry>
+        <entry encoding="base64">XDxpc0FjdGl2ZVw+</entry>
+        <entry encoding="base64">XDxwcmV2ZW50RGVmYXVsdFw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVIYW5kbGVJbnZhbGlkXD4=</entry>
+        <entry>pointer</entry>
+        <entry encoding="base64">XDxHZW9zdWdnZXN0XD4=</entry>
+        <entry>userFocused</entry>
+        <entry>geosuggest</entry>
+        <entry encoding="base64">XDxfZ2Vvc3VnZ2VzdFw+</entry>
+        <entry encoding="base64">XDxhbGxvd0dlb1N1Z2dlc3Rpb25DbGlja0V2ZW50VGltZVRvUHJvcGFnYXRlXD4=</entry>
+        <entry>wrapper</entry>
+        <entry encoding="base64">XDxoYW5kbGVBZGRyZXNzQmx1clw+</entry>
+      </history-search>
+      <history-cmd>
+        <entry>set norelativenumber</entry>
+        <entry>set relativenmuber</entry>
+        <entry>set relativenumber</entry>
+        <entry>set number</entry>
+        <entry>130</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>:reg</entry>
+        <entry encoding="base64">JzwsJz5zb3J0IQ==</entry>
+        <entry encoding="base64">JzwsJz4hc29ydA==</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry encoding="base64">ZSArPDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtOmNsaWVudC9zcmMvcG9saWN5TGV2ZWxSYXRpbmcvU3BlY2lmaWVkQ2F1c2VzT2ZMb3NzL1NwZWNpZmllZENhdXNlc09mTG9zc0NvbnRhaW5lci5qcw==</entry>
+        <entry>wa</entry>
+        <entry>W</entry>
+        <entry>w</entry>
+        <entry>reg</entry>
+        <entry>64</entry>
+        <entry>q</entry>
+        <entry>69</entry>
+        <entry>wq</entry>
+        <entry>191</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
@@ -39,7 +91,255 @@
         <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" timestamp="1593183396643">
+        <mark key="'" line="230" column="26" />
+        <mark key="[" line="246" column="16" />
+        <mark key="]" line="246" column="17" />
+        <mark key="." line="246" column="17" />
+        <mark key="^" line="246" column="17" />
+      </file>
+      <file name="/fragment.js" timestamp="1592945004841">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Content/Form/AddressAutocomplete.tsx" timestamp="1593011446864">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="35" />
+        <mark key="^" line="13" column="70" />
+        <mark key="." line="13" column="70" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/test/setup.js" timestamp="1593021420788">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="27" column="52" />
+        <mark key="." line="27" column="52" />
+        <mark key="^" line="27" column="52" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Content/Form/FormView.tsx" timestamp="1592340202426">
+        <mark key="'" line="23" column="34" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/forms/FormattedInput.tsx" timestamp="1593120639759">
+        <mark key="[" line="28" column="28" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/inputs/index.ts" timestamp="1592945513885">
+        <mark key="[" line="36" column="2" />
+        <mark key="]" line="36" column="22" />
+        <mark key="^" line="36" column="22" />
+        <mark key="." line="36" column="22" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/apps/www/public/_redirects" timestamp="1593540807866">
+        <mark key="[" line="189" column="39" />
+        <mark key="]" line="189" column="40" />
+        <mark key="^" line="189" column="40" />
+        <mark key="." line="189" column="39" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/node_modules/@types/react-geosuggest/index.d.ts" timestamp="1592946124108">
+        <mark key="'" line="1" column="45" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/apps/www/src/routes.test.tsx" timestamp="1593010742375">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="40" />
+        <mark key="." line="3" column="40" />
+        <mark key="^" line="3" column="40" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/inputs/CardNumberInput.tsx" timestamp="1592945281307">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="27" />
+        <mark key="^" line="13" column="27" />
+        <mark key="." line="13" column="27" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/inputs/PhoneInput.tsx" timestamp="1593185166814">
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="22" column="39" />
+        <mark key="^" line="22" column="47" />
+        <mark key="." line="22" column="39" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/package.json" timestamp="1593021305543">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/redux/payment.ts" timestamp="1593182883694">
+        <mark key="[" line="97" column="8" />
+        <mark key="]" line="97" column="38" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="104" column="8" filename="$USER_HOME$/Development/jupiter/packages/@account/pg-update-payment/CreditCard/PaymentForm/PaymentForm.tsx" />
+      <jump line="105" column="44" filename="$USER_HOME$/Development/jupiter/packages/@account/pg-update-payment/CreditCard/PaymentForm/PaymentForm.tsx" />
+      <jump line="135" column="11" filename="$USER_HOME$/Development/jupiter/packages/@account/pg-update-payment/CreditCard/PaymentForm/PaymentForm.tsx" />
+      <jump line="137" column="23" filename="$USER_HOME$/Development/jupiter/packages/@account/pg-update-payment/CreditCard/PaymentForm/PaymentForm.tsx" />
+      <jump line="139" column="26" filename="$USER_HOME$/Development/jupiter/packages/@account/pg-update-payment/CreditCard/PaymentForm/PaymentForm.tsx" />
+      <jump line="199" column="13" filename="$USER_HOME$/Development/jupiter/packages/@account/pg-update-payment/CreditCard/PaymentForm/PaymentForm.tsx" />
+      <jump line="1" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/buttons/Buttons.regression.story.tsx" />
+      <jump line="2" column="9" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/buttons/Buttons.regression.story.tsx" />
+      <jump line="15" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/badge/Badge.regression.story.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/jupiter/package.json" />
+      <jump line="82" column="88" filename="$USER_HOME$/Development/jupiter/package.json" />
+      <jump line="13" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-home/View.tsx" />
+      <jump line="27" column="6" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-home/View.tsx" />
+      <jump line="0" column="62" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/blog-cards-module/doubles.ts" />
+      <jump line="100" column="6" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/blog-cards-module/BlogCardsModule.tsx" />
+      <jump line="9" column="7" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/blog-cards-module/BlogCardsModuleView.tsx" />
+      <jump line="13" column="62" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/blog-cards-module/BlogCardsModuleView.tsx" />
+      <jump line="58" column="6" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/blog-cards-module/BlogCardsModuleView.tsx" />
+      <jump line="18" column="62" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/blog-cards-module/BlogCardsModuleView.tsx" />
+      <jump line="15" column="42" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/blog-cards-module/BlogCard.tsx" />
+      <jump line="43" column="56" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/blog-cards-module/BlogCard.tsx" />
+      <jump line="104" column="6" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/blog-cards-module/BlogCard.tsx" />
+      <jump line="111" column="5" filename="$USER_HOME$/Development/jupiter/package.json" />
+      <jump line="80" column="45" filename="$USER_HOME$/Development/jupiter/package.json" />
+      <jump line="99" column="34" filename="$USER_HOME$/Development/jupiter/package.json" />
+      <jump line="79" column="47" filename="$USER_HOME$/Development/jupiter/package.json" />
+      <jump line="44" column="23" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/blog-cards-module/BlogCardsModule.test.tsx" />
+      <jump line="76" column="44" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/blog-cards-module/BlogCard.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/jupiter/apps/www/public/scripts/one-trust-consent-script-builder.js" />
+      <jump line="61" column="0" filename="$USER_HOME$/Development/jupiter/apps/www/public/scripts/one-trust-consent-script-builder.js" />
+      <jump line="11" column="7" filename="$USER_HOME$/Development/jupiter/apps/www/public/scripts/one-trust-consent-script-builder.js" />
+      <jump line="15" column="6" filename="$USER_HOME$/Development/jupiter/apps/www/public/scripts/one-trust-consent-script-builder.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Content/Form/ContactInfoSection.tsx" />
+      <jump line="19" column="14" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Content/Form/ContactInfoSection.tsx" />
+      <jump line="20" column="18" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Content/Form/ContactInfoSection.tsx" />
+      <jump line="21" column="17" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Content/Form/ContactInfoSection.tsx" />
+      <jump line="23" column="34" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Content/Form/FormView.tsx" />
+      <jump line="103" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Content/Form/ContactInfoSection.tsx" />
+      <jump line="110" column="38" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Content/Form/ContactInfoSection.tsx" />
+      <jump line="115" column="21" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Content/Form/ContactInfoSection.tsx" />
+      <jump line="148" column="30" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Content/Form/ContactInfoSection.tsx" />
+      <jump line="128" column="11" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="42" column="9" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="50" column="9" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="20" column="2" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="147" column="15" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="14" column="17" filename="$USER_HOME$/Development/jupiter/yarn.lock" />
+      <jump line="4429" column="9" filename="$USER_HOME$/Development/jupiter/yarn.lock" />
+      <jump line="4431" column="66" filename="$USER_HOME$/Development/jupiter/yarn.lock" />
+      <jump line="4437" column="9" filename="$USER_HOME$/Development/jupiter/yarn.lock" />
+      <jump line="4439" column="65" filename="$USER_HOME$/Development/jupiter/yarn.lock" />
+      <jump line="4452" column="80" filename="$USER_HOME$/Development/jupiter/yarn.lock" />
+      <jump line="4454" column="72" filename="$USER_HOME$/Development/jupiter/yarn.lock" />
+      <jump line="4472" column="19" filename="$USER_HOME$/Development/jupiter/yarn.lock" />
+      <jump line="6533" column="8" filename="$USER_HOME$/Development/jupiter/yarn.lock" />
+      <jump line="6535" column="58" filename="$USER_HOME$/Development/jupiter/yarn.lock" />
+      <jump line="6550" column="17" filename="$USER_HOME$/Development/jupiter/yarn.lock" />
+      <jump line="6690" column="12" filename="$USER_HOME$/Development/jupiter/yarn.lock" />
+      <jump line="6852" column="14" filename="$USER_HOME$/Development/jupiter/yarn.lock" />
+      <jump line="6854" column="73" filename="$USER_HOME$/Development/jupiter/yarn.lock" />
+      <jump line="9122" column="27" filename="$USER_HOME$/Development/jupiter/yarn.lock" />
+      <jump line="10957" column="42" filename="$USER_HOME$/Development/jupiter/yarn.lock" />
+      <jump line="12468" column="91" filename="$USER_HOME$/Development/jupiter/yarn.lock" />
+      <jump line="16101" column="93" filename="$USER_HOME$/Development/jupiter/yarn.lock" />
+      <jump line="16693" column="0" filename="$USER_HOME$/Development/jupiter/yarn.lock" />
+      <jump line="16695" column="54" filename="$USER_HOME$/Development/jupiter/yarn.lock" />
+      <jump line="17506" column="20" filename="$USER_HOME$/Development/jupiter/yarn.lock" />
+      <jump line="19887" column="64" filename="$USER_HOME$/Development/jupiter/yarn.lock" />
+      <jump line="137" column="55" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="94" column="20" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="121" column="10" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="91" column="10" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="135" column="8" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="26" column="2" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="34" column="4" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="88" column="31" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="123" column="20" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="173" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="172" column="10" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="55" column="13" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="150" column="11" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="154" column="38" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="10" column="21" filename="$USER_HOME$/Development/jupiter/node_modules/@types/react-geosuggest/index.d.ts" />
+      <jump line="0" column="30" filename="$USER_HOME$/Development/jupiter/node_modules/@types/react-geosuggest/index.d.ts" />
+      <jump line="1" column="45" filename="$USER_HOME$/Development/jupiter/node_modules/@types/react-geosuggest/index.d.ts" />
+      <jump line="2" column="14" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="27" column="2" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="35" column="4" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="110" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="142" column="11" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="146" column="38" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="149" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="157" column="11" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="39" column="10" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="111" column="14" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="116" column="11" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="214" column="17" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="207" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="202" column="26" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
+      <jump line="109" column="12" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Content/Form/ContactInfoSection.tsx" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="4">
+        <text>homecoming</text>
+      </register>
+      <register name="-" type="4">
+        <text>homecoming</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxoYW5kbGVBZGRyZXNzQmx1clw+</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">aHR0cHM6Ly9ob21lY29taW5nLm9uZXBlbG90b24uY29tLyogICAgIGh0dHBzOi8vd3d3Lm9uZXBlbG90b24uY29tICAgICAgMzAyIQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHotaW5kZXg6IDEwMDsK</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlQWRkcmVzc0JsdXIodmFsKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdHJhbnNmb3JtOiBzY2FsZSgwLjEpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdHJhbnNmb3JtOiBzY2FsZSgwKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC5nZW9zdWdnZXN0X19zdWdnZXN0cyB7CiAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgaGVpZ2h0OiAwOwogICAgICBvcGFjaXR5OiAwOwogICAgICB0cmFuc2Zvcm06IHNjYWxlKDApOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAuZ2UK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC5nZW9zdWdnZXN0X19pdGVtIHsKICAgICAgaGVpZ2h0OiAwOwogICAgfQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>191</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxoYW5kbGVBZGRyZXNzQmx1clw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxoYW5kbGVBZGRyZXNzQmx1clw+</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxfZ2Vvc3VnZ2VzdFw+</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
