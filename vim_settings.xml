@@ -95,6 +95,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Development/jupiter/packages/@bookings/pg-checkout/BillingInfoFieldSet.tsx" timestamp="1593551342606">
+        <mark key="'" line="39" column="19" />
+        <mark key="[" line="56" column="40" />
+        <mark key="]" line="57" column="33" />
+        <mark key="^" line="57" column="33" />
+        <mark key="." line="57" column="32" />
+      </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" timestamp="1593183396643">
         <mark key="'" line="230" column="26" />
         <mark key="[" line="246" column="16" />
@@ -117,9 +124,6 @@
         <mark key="." line="27" column="52" />
         <mark key="^" line="27" column="52" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Content/Form/FormView.tsx" timestamp="1592340202426">
-        <mark key="'" line="23" column="34" />
-      </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/forms/FormattedInput.tsx" timestamp="1593120639759">
         <mark key="[" line="28" column="28" />
       </file>
@@ -128,6 +132,11 @@
         <mark key="]" line="36" column="22" />
         <mark key="^" line="36" column="22" />
         <mark key="." line="36" column="22" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@bookings/forms/ManagedSelect.tsx" timestamp="1593551355154">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="23" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/apps/www/public/_redirects" timestamp="1593540807866">
         <mark key="[" line="189" column="39" />
@@ -138,11 +147,25 @@
       <file name="$USER_HOME$/Development/jupiter/node_modules/@types/react-geosuggest/index.d.ts" timestamp="1592946124108">
         <mark key="'" line="1" column="45" />
       </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@peloton/forms/toSelectInput.ts" timestamp="1593550280134">
+        <mark key="'" line="3" column="33" />
+      </file>
       <file name="$USER_HOME$/Development/jupiter/apps/www/src/routes.test.tsx" timestamp="1593010742375">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="40" />
         <mark key="." line="3" column="40" />
         <mark key="^" line="3" column="40" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@bookings/payment/stripe/StripeFieldSet.tsx" timestamp="1593549288609">
+        <mark key="[" line="51" column="37" />
+        <mark key="]" line="52" column="26" />
+        <mark key="^" line="52" column="26" />
+        <mark key="." line="52" column="25" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@bookings/forms/ManagedInput.tsx" timestamp="1593551337106">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/inputs/CardNumberInput.tsx" timestamp="1592945281307">
         <mark key="[" line="13" column="28" />
@@ -166,10 +189,20 @@
         <mark key="[" line="97" column="8" />
         <mark key="]" line="97" column="38" />
       </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@bookings/pg-reserve-class/modals/UpdateProfileFormModal.tsx" timestamp="1593550496210">
+        <mark key="[" line="93" column="50" />
+        <mark key="]" line="94" column="29" />
+        <mark key="^" line="94" column="29" />
+        <mark key="." line="94" column="28" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@bookings/pg-shop/PromoCodeForm/PromoCodeFormView.tsx" timestamp="1593551074025">
+        <mark key="[" line="26" column="65" />
+        <mark key="]" line="27" column="25" />
+        <mark key="^" line="27" column="25" />
+        <mark key="." line="27" column="24" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="8" filename="$USER_HOME$/Development/jupiter/packages/@account/pg-update-payment/CreditCard/PaymentForm/PaymentForm.tsx" />
-      <jump line="105" column="44" filename="$USER_HOME$/Development/jupiter/packages/@account/pg-update-payment/CreditCard/PaymentForm/PaymentForm.tsx" />
       <jump line="135" column="11" filename="$USER_HOME$/Development/jupiter/packages/@account/pg-update-payment/CreditCard/PaymentForm/PaymentForm.tsx" />
       <jump line="137" column="23" filename="$USER_HOME$/Development/jupiter/packages/@account/pg-update-payment/CreditCard/PaymentForm/PaymentForm.tsx" />
       <jump line="139" column="26" filename="$USER_HOME$/Development/jupiter/packages/@account/pg-update-payment/CreditCard/PaymentForm/PaymentForm.tsx" />
@@ -268,6 +301,8 @@
       <jump line="207" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
       <jump line="202" column="26" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" />
       <jump line="109" column="12" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Content/Form/ContactInfoSection.tsx" />
+      <jump line="3" column="33" filename="$USER_HOME$/Development/jupiter/packages/@peloton/forms/toSelectInput.ts" />
+      <jump line="39" column="19" filename="$USER_HOME$/Development/jupiter/packages/@bookings/pg-checkout/BillingInfoFieldSet.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -280,47 +315,52 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>homecoming</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBhdXRvQ29tcGxldGU6IHN0cmluZzsK</text>
       </register>
       <register name="-" type="4">
-        <text>homecoming</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVBZGRyZXNzQmx1clw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aHR0cHM6Ly9ob21lY29taW5nLm9uZXBlbG90b24uY29tLyogICAgIGh0dHBzOi8vd3d3Lm9uZXBlbG90b24uY29tICAgICAgMzAyIQo=</text>
+        <text encoding="base64">ICAgICAgICBhdXRvQ29tcGxldGU9ImdpdmVuLW5hbWUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHotaW5kZXg6IDEwMDsK</text>
+        <text encoding="base64">ICBhdXRvQ29tcGxldGU6IHN0cmluZzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlQWRkcmVzc0JsdXIodmFsKTsK</text>
+        <text encoding="base64">ICBhdXRvQ29tcGxldGU6IHN0cmluZzsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdHJhbnNmb3JtOiBzY2FsZSgwLjEpOwo=</text>
+      <register name="3" type="4">
+        <text>{
+  name: string;
+  label: string;
+  required?: boolean;
+  overrideErrorMessage?: string;
+}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdHJhbnNmb3JtOiBzY2FsZSgwKTsK</text>
+        <text encoding="base64">ICAgIHotaW5kZXg6IDEwMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC5nZW9zdWdnZXN0X19zdWdnZXN0cyB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlQWRkcmVzc0JsdXIodmFsKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaGVpZ2h0OiAwOwogICAgICBvcGFjaXR5OiAwOwogICAgICB0cmFuc2Zvcm06IHNjYWxlKDApOwo=</text>
+        <text encoding="base64">ICAgICAgdHJhbnNmb3JtOiBzY2FsZSgwLjEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAuZ2UK</text>
+        <text encoding="base64">ICAgICAgdHJhbnNmb3JtOiBzY2FsZSgwKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIC5nZW9zdWdnZXN0X19zdWdnZXN0cyB7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5nZW9zdWdnZXN0X19pdGVtIHsKICAgICAgaGVpZ2h0OiAwOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgaGVpZ2h0OiAwOwogICAgICBvcGFjaXR5OiAwOwogICAgICB0cmFuc2Zvcm06IHNjYWxlKDApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>191</text>
