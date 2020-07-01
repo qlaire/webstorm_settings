@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>suggest</entry>
-        <entry>geo</entry>
-        <entry encoding="base64">XDx1c2VyRm9jdXNlZFw+</entry>
         <entry encoding="base64">XDxzZXRSZWZzXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVGb2N1c1w+</entry>
         <entry encoding="base64">XDxvbkZvY3VzXD4=</entry>
@@ -25,6 +22,9 @@
         <entry>homecoming</entry>
         <entry>classes</entry>
         <entry>coaches</entry>
+        <entry encoding="base64">XDxJbmZvVG9vbHRpcFw+</entry>
+        <entry encoding="base64">XDxiYXNlU3R5bGVcPg==</entry>
+        <entry encoding="base64">XDxjdXN0b21TdHlsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>set norelativenumber</entry>
@@ -95,19 +95,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/jupiter/packages/@bookings/pg-checkout/BillingInfoFieldSet.tsx" timestamp="1593551342606">
-        <mark key="'" line="39" column="19" />
-        <mark key="[" line="56" column="40" />
-        <mark key="]" line="57" column="33" />
-        <mark key="^" line="57" column="33" />
-        <mark key="." line="57" column="32" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" timestamp="1593183396643">
-        <mark key="'" line="230" column="26" />
-        <mark key="[" line="246" column="16" />
-        <mark key="]" line="246" column="17" />
-        <mark key="." line="246" column="17" />
-        <mark key="^" line="246" column="17" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/View.tsx" timestamp="1593632770711">
+        <mark key="[" line="33" column="25" />
+        <mark key="]" line="33" column="32" />
+        <mark key="." line="33" column="31" />
+        <mark key="^" line="33" column="32" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Content/Form/AddressAutocomplete.tsx" timestamp="1593011446864">
         <mark key="[" line="4" column="8" />
@@ -130,26 +122,8 @@
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/forms/FormattedInput.tsx" timestamp="1593120639759">
         <mark key="[" line="28" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/inputs/index.ts" timestamp="1592945513885">
-        <mark key="[" line="36" column="2" />
-        <mark key="]" line="36" column="22" />
-        <mark key="^" line="36" column="22" />
-        <mark key="." line="36" column="22" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@bookings/forms/ManagedSelect.tsx" timestamp="1593551355154">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="23" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/jupiter/apps/www/public/_redirects" timestamp="1593614117979">
-        <mark key="'" line="197" column="1" />
-        <mark key="[" line="189" column="39" />
-        <mark key="]" line="189" column="40" />
-        <mark key="^" line="189" column="40" />
-        <mark key="." line="189" column="39" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/node_modules/@types/react-geosuggest/index.d.ts" timestamp="1592946124108">
-        <mark key="'" line="1" column="45" />
+        <mark key="'" line="194" column="1" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@peloton/forms/toSelectInput.ts" timestamp="1593550280134">
         <mark key="'" line="3" column="33" />
@@ -171,17 +145,14 @@
         <mark key="]" line="7" column="23" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/inputs/CardNumberInput.tsx" timestamp="1592945281307">
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="13" column="27" />
-        <mark key="^" line="13" column="27" />
-        <mark key="." line="13" column="27" />
-      </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/inputs/PhoneInput.tsx" timestamp="1593185166814">
         <mark key="[" line="22" column="39" />
         <mark key="]" line="22" column="39" />
         <mark key="^" line="22" column="47" />
         <mark key="." line="22" column="39" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/cart/summary/ItemView/RemovableMembershipItemView.tsx" timestamp="1593631528268">
+        <mark key="'" line="5" column="48" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/package.json" timestamp="1593021305543">
         <mark key="[" line="7" column="28" />
@@ -189,9 +160,11 @@
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/redux/payment.ts" timestamp="1593182883694">
-        <mark key="[" line="97" column="8" />
-        <mark key="]" line="97" column="38" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/shared.ts" timestamp="1593632017671">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="17" />
+        <mark key="^" line="10" column="17" />
+        <mark key="." line="10" column="16" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@bookings/pg-reserve-class/modals/UpdateProfileFormModal.tsx" timestamp="1593550496210">
         <mark key="[" line="93" column="50" />
@@ -205,12 +178,31 @@
         <mark key="^" line="27" column="25" />
         <mark key="." line="27" column="24" />
       </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@bookings/pg-checkout/BillingInfoFieldSet.tsx" timestamp="1593551342606">
+        <mark key="'" line="39" column="19" />
+        <mark key="[" line="56" column="40" />
+        <mark key="]" line="57" column="33" />
+        <mark key="^" line="57" column="33" />
+        <mark key="." line="57" column="32" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/address-autocomplete/AddressAutocomplete.tsx" timestamp="1593183396643">
+        <mark key="'" line="230" column="26" />
+        <mark key="[" line="246" column="16" />
+        <mark key="]" line="246" column="17" />
+        <mark key="." line="246" column="17" />
+        <mark key="^" line="246" column="17" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@bookings/forms/ManagedSelect.tsx" timestamp="1593551355154">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="23" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/redux/payment.ts" timestamp="1593182883694">
+        <mark key="[" line="97" column="8" />
+        <mark key="]" line="97" column="38" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="13" filename="$USER_HOME$/Development/jupiter/packages/@account/pg-update-payment/CreditCard/PaymentForm/PaymentForm.tsx" />
-      <jump line="1" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/buttons/Buttons.regression.story.tsx" />
-      <jump line="2" column="9" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/buttons/Buttons.regression.story.tsx" />
-      <jump line="15" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/badge/Badge.regression.story.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/jupiter/package.json" />
       <jump line="82" column="88" filename="$USER_HOME$/Development/jupiter/package.json" />
       <jump line="13" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-home/View.tsx" />
@@ -307,6 +299,10 @@
       <jump line="189" column="39" filename="$USER_HOME$/Development/jupiter/apps/www/public/_redirects" />
       <jump line="188" column="3" filename="$USER_HOME$/Development/jupiter/apps/www/public/_redirects" />
       <jump line="197" column="1" filename="$USER_HOME$/Development/jupiter/apps/www/public/_redirects" />
+      <jump line="5" column="48" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/cart/summary/ItemView/RemovableMembershipItemView.tsx" />
+      <jump line="43" column="23" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/View.tsx" />
+      <jump line="2" column="29" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/View.tsx" />
+      <jump line="45" column="42" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/View.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -319,31 +315,37 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyMgSG9tZWNvbWluZyBhbmQgQ29tbXVuaXR5IE1pY3Jvc2l0ZXMgdG8gSG9tZXBhZ2UKaHR0cHM6Ly9ob21lY29taW5nLm9uZXBlbG90b24uY29tLyogICAgIApodHRwczovL2NvbW11bml0eS5vbmVwZWxvdG9uLmNvbS8qICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>block</text>
       </register>
       <register name="-" type="4">
-        <text>https://www.onepeloton.com      302!</text>
+        <text>block</text>
       </register>
       <register name="/" type="4">
-        <text>coaches</text>
+        <text encoding="base64">XDxjdXN0b21TdHlsZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhdXRvQ29tcGxldGU9ImdpdmVuLW5hbWUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMgSG9tZWNvbWluZyBhbmQgQ29tbXVuaXR5IE1pY3Jvc2l0ZXMgdG8gSG9tZXBhZ2UKaHR0cHM6Ly9ob21lY29taW5nLm9uZXBlbG90b24uY29tLyogICAgIApodHRwczovL2NvbW11bml0eS5vbmVwZWxvdG9uLmNvbS8qICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICApfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhdXRvQ29tcGxldGU6IHN0cmluZzsK</text>
+        <text encoding="base64">ICAgICAgICB7aXNPcGVuICYmICgK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">IyMgSG9tZWNvbWluZyBhbmQgQ29tbXVuaXR5IE1pY3Jvc2l0ZXMgdG8gSG9tZXBhZ2UKaHR0cHM6Ly9ob21lY29taW5nLm9uZXBlbG90b24uY29tLyogICAgIApodHRwczovL2NvbW11bml0eS5vbmVwZWxvdG9uLmNvbS8qICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICBhdXRvQ29tcGxldGU6IHN0cmluZzsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICBhdXRvQ29tcGxldGU6IHN0cmluZzsK</text>
+      </register>
+      <register name="6" type="4">
         <text>{
   name: string;
   label: string;
@@ -351,20 +353,14 @@
   overrideErrorMessage?: string;
 }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHotaW5kZXg6IDEwMDsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlQWRkcmVzc0JsdXIodmFsKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdHJhbnNmb3JtOiBzY2FsZSgwLjEpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdHJhbnNmb3JtOiBzY2FsZSgwKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5nZW9zdWdnZXN0X19zdWdnZXN0cyB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgdHJhbnNmb3JtOiBzY2FsZSgwLjEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>191</text>
@@ -373,9 +369,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>coaches</last-search>
+      <last-search encoding="base64">XDxjdXN0b21TdHlsZVw+</last-search>
       <last-offset />
-      <last-pattern>coaches</last-pattern>
+      <last-pattern encoding="base64">XDxjdXN0b21TdHlsZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxfZ2Vvc3VnZ2VzdFw+</last-substitute>
       <last-dir>1</last-dir>
