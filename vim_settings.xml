@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbkFkZHJlc3NTZWxlY3RcPg==</entry>
-        <entry>what is this</entry>
-        <entry>geo-suggest</entry>
         <entry>suggest</entry>
         <entry>geo</entry>
         <entry encoding="base64">XDx1c2VyRm9jdXNlZFw+</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxhbGxvd0dlb1N1Z2dlc3Rpb25DbGlja0V2ZW50VGltZVRvUHJvcGFnYXRlXD4=</entry>
         <entry>wrapper</entry>
         <entry encoding="base64">XDxoYW5kbGVBZGRyZXNzQmx1clw+</entry>
+        <entry>homecoming</entry>
+        <entry>classes</entry>
+        <entry>coaches</entry>
       </history-search>
       <history-cmd>
         <entry>set norelativenumber</entry>
@@ -138,8 +138,8 @@
         <mark key="]" line="9" column="23" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/apps/www/public/_redirects" timestamp="1593613954222">
-        <mark key="'" line="189" column="39" />
+      <file name="$USER_HOME$/Development/jupiter/apps/www/public/_redirects" timestamp="1593614117979">
+        <mark key="'" line="197" column="1" />
         <mark key="[" line="189" column="39" />
         <mark key="]" line="189" column="40" />
         <mark key="^" line="189" column="40" />
@@ -204,8 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="23" filename="$USER_HOME$/Development/jupiter/packages/@account/pg-update-payment/CreditCard/PaymentForm/PaymentForm.tsx" />
-      <jump line="139" column="26" filename="$USER_HOME$/Development/jupiter/packages/@account/pg-update-payment/CreditCard/PaymentForm/PaymentForm.tsx" />
       <jump line="199" column="13" filename="$USER_HOME$/Development/jupiter/packages/@account/pg-update-payment/CreditCard/PaymentForm/PaymentForm.tsx" />
       <jump line="1" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/buttons/Buttons.regression.story.tsx" />
       <jump line="2" column="9" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/buttons/Buttons.regression.story.tsx" />
@@ -304,6 +302,8 @@
       <jump line="3" column="33" filename="$USER_HOME$/Development/jupiter/packages/@peloton/forms/toSelectInput.ts" />
       <jump line="39" column="19" filename="$USER_HOME$/Development/jupiter/packages/@bookings/pg-checkout/BillingInfoFieldSet.tsx" />
       <jump line="189" column="39" filename="$USER_HOME$/Development/jupiter/apps/www/public/_redirects" />
+      <jump line="188" column="3" filename="$USER_HOME$/Development/jupiter/apps/www/public/_redirects" />
+      <jump line="197" column="1" filename="$USER_HOME$/Development/jupiter/apps/www/public/_redirects" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -323,7 +323,7 @@
         <text>u</text>
       </register>
       <register name="/" type="4">
-        <text>homecoming</text>
+        <text>coaches</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhdXRvQ29tcGxldGU9ImdpdmVuLW5hbWUiCg==</text>
@@ -370,9 +370,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>homecoming</last-search>
+      <last-search>coaches</last-search>
       <last-offset />
-      <last-pattern>homecoming</last-pattern>
+      <last-pattern>coaches</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxfZ2Vvc3VnZ2VzdFw+</last-substitute>
       <last-dir>1</last-dir>
