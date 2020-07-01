@@ -109,14 +109,17 @@
         <mark key="." line="246" column="17" />
         <mark key="^" line="246" column="17" />
       </file>
-      <file name="/fragment.js" timestamp="1592945004841">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Content/Form/AddressAutocomplete.tsx" timestamp="1593011446864">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="35" />
         <mark key="^" line="13" column="70" />
         <mark key="." line="13" column="70" />
+      </file>
+      <file name="$USER_HOME$/Development/homecoming/app/public/_redirects" timestamp="1593616310985">
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="0" column="30" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/test/setup.js" timestamp="1593021420788">
         <mark key="[" line="26" column="0" />
@@ -317,10 +320,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBhdXRvQ29tcGxldGU6IHN0cmluZzsK</text>
+        <text encoding="base64">IyMgSG9tZWNvbWluZyBhbmQgQ29tbXVuaXR5IE1pY3Jvc2l0ZXMgdG8gSG9tZXBhZ2UKaHR0cHM6Ly9ob21lY29taW5nLm9uZXBlbG90b24uY29tLyogICAgIApodHRwczovL2NvbW11bml0eS5vbmVwZWxvdG9uLmNvbS8qICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>https://www.onepeloton.com      302!</text>
       </register>
       <register name="/" type="4">
         <text>coaches</text>
@@ -329,7 +332,7 @@
         <text encoding="base64">ICAgICAgICBhdXRvQ29tcGxldGU9ImdpdmVuLW5hbWUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhdXRvQ29tcGxldGU6IHN0cmluZzsK</text>
+        <text encoding="base64">IyMgSG9tZWNvbWluZyBhbmQgQ29tbXVuaXR5IE1pY3Jvc2l0ZXMgdG8gSG9tZXBhZ2UKaHR0cHM6Ly9ob21lY29taW5nLm9uZXBlbG90b24uY29tLyogICAgIApodHRwczovL2NvbW11bml0eS5vbmVwZWxvdG9uLmNvbS8qICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -337,7 +340,10 @@
       <register name="2" type="2">
         <text encoding="base64">ICBhdXRvQ29tcGxldGU6IHN0cmluZzsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICBhdXRvQ29tcGxldGU6IHN0cmluZzsK</text>
+      </register>
+      <register name="4" type="4">
         <text>{
   name: string;
   label: string;
@@ -345,23 +351,20 @@
   overrideErrorMessage?: string;
 }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHotaW5kZXg6IDEwMDsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlQWRkcmVzc0JsdXIodmFsKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgdHJhbnNmb3JtOiBzY2FsZSgwLjEpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgdHJhbnNmb3JtOiBzY2FsZSgwKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC5nZW9zdWdnZXN0X19zdWdnZXN0cyB7CiAgICB9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaGVpZ2h0OiAwOwogICAgICBvcGFjaXR5OiAwOwogICAgICB0cmFuc2Zvcm06IHNjYWxlKDApOwo=</text>
+        <text encoding="base64">ICAgIC5nZW9zdWdnZXN0X19zdWdnZXN0cyB7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>191</text>
