@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRSZWZzXD4=</entry>
-        <entry encoding="base64">XDxoYW5kbGVGb2N1c1w+</entry>
-        <entry encoding="base64">XDxvbkZvY3VzXD4=</entry>
-        <entry encoding="base64">XDxpc0FjdGl2ZVw+</entry>
         <entry encoding="base64">XDxwcmV2ZW50RGVmYXVsdFw+</entry>
         <entry encoding="base64">XDxjcmVhdGVIYW5kbGVJbnZhbGlkXD4=</entry>
         <entry>pointer</entry>
@@ -25,6 +21,10 @@
         <entry encoding="base64">XDxJbmZvVG9vbHRpcFw+</entry>
         <entry encoding="base64">XDxiYXNlU3R5bGVcPg==</entry>
         <entry encoding="base64">XDxjdXN0b21TdHlsZVw+</entry>
+        <entry encoding="base64">XDxMb2NhbGVEcm9wZG93blw+</entry>
+        <entry encoding="base64">XDxMb2NhbGVEcm9wZG93blN0eWxlZFw+</entry>
+        <entry encoding="base64">XDxDb250YWluZXJcPg==</entry>
+        <entry>nav</entry>
       </history-search>
       <history-cmd>
         <entry>set norelativenumber</entry>
@@ -95,17 +95,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/View.tsx" timestamp="1593632770711">
-        <mark key="[" line="33" column="25" />
-        <mark key="]" line="33" column="32" />
-        <mark key="." line="33" column="31" />
-        <mark key="^" line="33" column="32" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Content/Form/AddressAutocomplete.tsx" timestamp="1593011446864">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="35" />
-        <mark key="^" line="13" column="70" />
-        <mark key="." line="13" column="70" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/View.tsx" timestamp="1593634142041">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="42" column="71" />
       </file>
       <file name="$USER_HOME$/Development/homecoming/app/public/_redirects" timestamp="1593616310985">
         <mark key="[" line="0" column="35" />
@@ -127,12 +121,6 @@
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@peloton/forms/toSelectInput.ts" timestamp="1593550280134">
         <mark key="'" line="3" column="33" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/apps/www/src/routes.test.tsx" timestamp="1593010742375">
-        <mark key="[" line="3" column="15" />
-        <mark key="]" line="3" column="40" />
-        <mark key="." line="3" column="40" />
-        <mark key="^" line="3" column="40" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@bookings/payment/stripe/StripeFieldSet.tsx" timestamp="1593549288609">
         <mark key="[" line="51" column="37" />
@@ -192,10 +180,16 @@
         <mark key="." line="246" column="17" />
         <mark key="^" line="246" column="17" />
       </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/internationalize/LocaleDropdown.tsx" timestamp="1593632971091">
+        <mark key="'" line="40" column="15" />
+      </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@bookings/forms/ManagedSelect.tsx" timestamp="1593551355154">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="23" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/header/HeaderView.tsx" timestamp="1593632952810">
+        <mark key="'" line="253" column="6" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/checkout/redux/payment.ts" timestamp="1593182883694">
         <mark key="[" line="97" column="8" />
@@ -203,10 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Development/jupiter/package.json" />
-      <jump line="82" column="88" filename="$USER_HOME$/Development/jupiter/package.json" />
-      <jump line="13" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-home/View.tsx" />
-      <jump line="27" column="6" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-home/View.tsx" />
       <jump line="0" column="62" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/blog-cards-module/doubles.ts" />
       <jump line="100" column="6" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/blog-cards-module/BlogCardsModule.tsx" />
       <jump line="9" column="7" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/blog-cards-module/BlogCardsModuleView.tsx" />
@@ -303,6 +293,10 @@
       <jump line="43" column="23" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/View.tsx" />
       <jump line="2" column="29" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/View.tsx" />
       <jump line="45" column="42" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/View.tsx" />
+      <jump line="15" column="2" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/header/HeaderView.tsx" />
+      <jump line="249" column="6" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/header/HeaderView.tsx" />
+      <jump line="253" column="6" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/header/HeaderView.tsx" />
+      <jump line="40" column="15" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/internationalize/LocaleDropdown.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -315,14 +309,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>block</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICApfQo=</text>
       </register>
       <register name="-" type="4">
         <text>block</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjdXN0b21TdHlsZVw+</text>
+        <text>nav</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhdXRvQ29tcGxldGU9ImdpdmVuLW5hbWUiCg==</text>
@@ -337,30 +331,25 @@
         <text encoding="base64">ICAgICAgICB7aXNPcGVuICYmICgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMgSG9tZWNvbWluZyBhbmQgQ29tbXVuaXR5IE1pY3Jvc2l0ZXMgdG8gSG9tZXBhZ2UKaHR0cHM6Ly9ob21lY29taW5nLm9uZXBlbG90b24uY29tLyogICAgIApodHRwczovL2NvbW11bml0eS5vbmVwZWxvdG9uLmNvbS8qICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhdXRvQ29tcGxldGU6IHN0cmluZzsK</text>
+        <text encoding="base64">ICAgIGlmICghaXNPcGVuKSB7CiAgICAgIGN1c3RvbVN0eWxlLnZpc2liaWxpdHkgPSAiaGlkZGVuIjsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhdXRvQ29tcGxldGU6IHN0cmluZzsK</text>
+        <text encoding="base64">ICAgICAgZGlzcGxheTogaXNPcGVuID8gJ2luaXRpYWwnIDogJ25vbmUnLAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-  name: string;
-  label: string;
-  required?: boolean;
-  overrideErrorMessage?: string;
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICApfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHotaW5kZXg6IDEwMDsK</text>
+        <text encoding="base64">ICAgICAgICB7aXNPcGVuICYmICgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlQWRkcmVzc0JsdXIodmFsKTsK</text>
+        <text encoding="base64">IyMgSG9tZWNvbWluZyBhbmQgQ29tbXVuaXR5IE1pY3Jvc2l0ZXMgdG8gSG9tZXBhZ2UKaHR0cHM6Ly9ob21lY29taW5nLm9uZXBlbG90b24uY29tLyogICAgIApodHRwczovL2NvbW11bml0eS5vbmVwZWxvdG9uLmNvbS8qICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdHJhbnNmb3JtOiBzY2FsZSgwLjEpOwo=</text>
+        <text encoding="base64">ICBhdXRvQ29tcGxldGU6IHN0cmluZzsK</text>
       </register>
       <register name=":" type="4">
         <text>191</text>
@@ -369,9 +358,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjdXN0b21TdHlsZVw+</last-search>
+      <last-search>nav</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjdXN0b21TdHlsZVw+</last-pattern>
+      <last-pattern>nav</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxfZ2Vvc3VnZ2VzdFw+</last-substitute>
       <last-dir>1</last-dir>
