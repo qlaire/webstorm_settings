@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmV2ZW50RGVmYXVsdFw+</entry>
         <entry encoding="base64">XDxjcmVhdGVIYW5kbGVJbnZhbGlkXD4=</entry>
         <entry>pointer</entry>
         <entry encoding="base64">XDxHZW9zdWdnZXN0XD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxMb2NhbGVEcm9wZG93blN0eWxlZFw+</entry>
         <entry encoding="base64">XDxDb250YWluZXJcPg==</entry>
         <entry>nav</entry>
+        <entry encoding="base64">XDxTaGlwcGluZ1Rvb2x0aXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set norelativenumber</entry>
@@ -95,11 +95,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/View.tsx" timestamp="1593640360714">
-        <mark key="[" line="40" column="39" />
-        <mark key="]" line="40" column="55" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/View.tsx" timestamp="1593698986021">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="60" />
         <mark key="." line="40" column="54" />
         <mark key="^" line="40" column="55" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/cart/summary/ShippingTooltip.tsx" timestamp="1593699487779">
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="38" />
+        <mark key="^" line="15" column="38" />
+        <mark key="." line="15" column="37" />
       </file>
       <file name="$USER_HOME$/Development/homecoming/app/public/_redirects" timestamp="1593616310985">
         <mark key="[" line="0" column="35" />
@@ -107,17 +113,23 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="30" />
       </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/AccessibleTooltip.tsx" timestamp="1593699039550">
+        <mark key="[" line="25" column="22" />
+        <mark key="]" line="25" column="28" />
+        <mark key="^" line="25" column="28" />
+        <mark key="." line="25" column="27" />
+      </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-bike-reviews/Views/RatingsMasthead/ReviewsTooltip.tsx" timestamp="1593636748829">
         <mark key="[" line="26" column="63" />
         <mark key="]" line="26" column="64" />
         <mark key="^" line="26" column="64" />
         <mark key="." line="26" column="63" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/badge/VerifiedBadge/index.tsx" timestamp="1593636851040">
-        <mark key="[" line="3" column="53" />
-        <mark key="]" line="3" column="59" />
-        <mark key="^" line="3" column="59" />
-        <mark key="." line="3" column="58" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/badge/VerifiedBadge/index.tsx" timestamp="1593699347903">
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="21" column="44" />
+        <mark key="^" line="21" column="44" />
+        <mark key="." line="21" column="43" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/cart/summary/ItemView/MembershipItemView.tsx" timestamp="1593635270621">
         <mark key="[" line="17" column="77" />
@@ -134,32 +146,24 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@peloton/forms/toSelectInput.ts" timestamp="1593550280134">
-        <mark key="'" line="3" column="33" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/forms/CardCVCInput.tsx" timestamp="1593699231677">
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="21" column="46" />
+        <mark key="^" line="21" column="46" />
+        <mark key="." line="21" column="45" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@bookings/payment/stripe/StripeFieldSet.tsx" timestamp="1593549288609">
-        <mark key="[" line="51" column="37" />
-        <mark key="]" line="52" column="26" />
-        <mark key="^" line="52" column="26" />
-        <mark key="." line="52" column="25" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/cart/summary/InfoTooltip.tsx" timestamp="1593699138588">
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="14" column="32" />
+        <mark key="^" line="14" column="32" />
+        <mark key="." line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/forms/CardCVCInput.tsx" timestamp="1593635895302">
-        <mark key="[" line="20" column="55" />
-        <mark key="]" line="20" column="61" />
-        <mark key="^" line="20" column="61" />
-        <mark key="." line="20" column="60" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@bookings/forms/ManagedInput.tsx" timestamp="1593551337106">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="23" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/cart/summary/ItemView/RemovableMembershipItemView.tsx" timestamp="1593635091288">
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/cart/summary/ItemView/RemovableMembershipItemView.tsx" timestamp="1593699185332">
         <mark key="'" line="5" column="48" />
-        <mark key="[" line="35" column="48" />
-        <mark key="]" line="35" column="56" />
-        <mark key="." line="35" column="55" />
-        <mark key="^" line="35" column="56" />
+        <mark key="[" line="35" column="51" />
+        <mark key="]" line="35" column="49" />
+        <mark key="." line="35" column="48" />
+        <mark key="^" line="35" column="49" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/shared.ts" timestamp="1593632017671">
         <mark key="[" line="10" column="16" />
@@ -173,18 +177,6 @@
         <mark key="^" line="46" column="27" />
         <mark key="." line="46" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@bookings/pg-reserve-class/modals/UpdateProfileFormModal.tsx" timestamp="1593550496210">
-        <mark key="[" line="93" column="50" />
-        <mark key="]" line="94" column="29" />
-        <mark key="^" line="94" column="29" />
-        <mark key="." line="94" column="28" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@bookings/pg-shop/PromoCodeForm/PromoCodeFormView.tsx" timestamp="1593551074025">
-        <mark key="[" line="26" column="65" />
-        <mark key="]" line="27" column="25" />
-        <mark key="^" line="27" column="25" />
-        <mark key="." line="27" column="24" />
-      </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@bookings/pg-checkout/BillingInfoFieldSet.tsx" timestamp="1593551342606">
         <mark key="'" line="39" column="19" />
         <mark key="[" line="56" column="40" />
@@ -192,8 +184,18 @@
         <mark key="^" line="57" column="33" />
         <mark key="." line="57" column="32" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/internationalize/LocaleDropdown.tsx" timestamp="1593632971091">
-        <mark key="'" line="40" column="15" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/internationalize/LocaleDropdown.tsx" timestamp="1593699656900">
+        <mark key="'" line="111" column="5" />
+        <mark key="[" line="42" column="18" />
+        <mark key="]" line="43" column="23" />
+        <mark key="^" line="43" column="23" />
+        <mark key="." line="43" column="22" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/cart/summary/ShippingRow.tsx" timestamp="1593699436726">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="55" />
+        <mark key="^" line="20" column="55" />
+        <mark key="." line="20" column="54" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@bookings/forms/ManagedSelect.tsx" timestamp="1593551355154">
         <mark key="[" line="9" column="0" />
@@ -203,11 +205,15 @@
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/header/HeaderView.tsx" timestamp="1593632952810">
         <mark key="'" line="253" column="6" />
       </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/cart/summary/HolidayShippingRow.tsx" timestamp="1593699525406">
+        <mark key="'" line="22" column="3" />
+        <mark key="[" line="24" column="20" />
+        <mark key="]" line="24" column="55" />
+        <mark key="^" line="24" column="55" />
+        <mark key="." line="24" column="54" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="62" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/blog-cards-module/doubles.ts" />
-      <jump line="100" column="6" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/blog-cards-module/BlogCardsModule.tsx" />
-      <jump line="9" column="7" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/blog-cards-module/BlogCardsModuleView.tsx" />
       <jump line="13" column="62" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/blog-cards-module/BlogCardsModuleView.tsx" />
       <jump line="58" column="6" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/blog-cards-module/BlogCardsModuleView.tsx" />
       <jump line="18" column="62" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/blog-cards-module/BlogCardsModuleView.tsx" />
@@ -305,6 +311,9 @@
       <jump line="249" column="6" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/header/HeaderView.tsx" />
       <jump line="253" column="6" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/header/HeaderView.tsx" />
       <jump line="40" column="15" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/internationalize/LocaleDropdown.tsx" />
+      <jump line="9" column="31" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/cart/summary/HolidayShippingRow.tsx" />
+      <jump line="22" column="3" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/cart/summary/HolidayShippingRow.tsx" />
+      <jump line="108" column="5" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/internationalize/LocaleDropdown.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -318,16 +327,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>describedBy</text>
+        <text>isOpen ? 'review-content' : ''</text>
       </register>
       <register name="-" type="4">
-        <text>describedBy</text>
+        <text>isOpen ? 'review-content' : ''</text>
       </register>
       <register name="/" type="4">
-        <text>nav</text>
+        <text encoding="base64">XDxTaGlwcGluZ1Rvb2x0aXBcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFyaWEtZGVzY3JpYmVkYnk9e2lzT3BlbiA/ICJjYXJ0U3VtbWFyeS5tZW1iZXJzaGlwSW5mbyIgOiAiIn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9vbHRpcENvbnRlbnRJZDogaXNPcGVuID8gdG9vbHRpcENvbnRlbnRJZCA6ICIiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFyaWEtZGVzY3JpYmVkYnk9ImNhcnRTdW1tYXJ5Lm1lbWJlcnNoaXBJbmZvIgo=</text>
@@ -366,9 +375,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>nav</last-search>
+      <last-search encoding="base64">XDxTaGlwcGluZ1Rvb2x0aXBcPg==</last-search>
       <last-offset />
-      <last-pattern>nav</last-pattern>
+      <last-pattern encoding="base64">XDxTaGlwcGluZ1Rvb2x0aXBcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxfZ2Vvc3VnZ2VzdFw+</last-substitute>
       <last-dir>1</last-dir>
