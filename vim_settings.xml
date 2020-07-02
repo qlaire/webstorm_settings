@@ -119,11 +119,11 @@
         <mark key="^" line="25" column="28" />
         <mark key="." line="25" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-bike-reviews/Views/RatingsMasthead/ReviewsTooltip.tsx" timestamp="1593636748829">
-        <mark key="[" line="26" column="63" />
-        <mark key="]" line="26" column="64" />
-        <mark key="^" line="26" column="64" />
-        <mark key="." line="26" column="63" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-bike-reviews/Views/RatingsMasthead/ReviewsTooltip.tsx" timestamp="1593699763147">
+        <mark key="[" line="27" column="26" />
+        <mark key="]" line="27" column="42" />
+        <mark key="^" line="27" column="42" />
+        <mark key="." line="27" column="41" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/badge/VerifiedBadge/index.tsx" timestamp="1593699347903">
         <mark key="[" line="21" column="28" />
@@ -327,10 +327,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>isOpen ? 'review-content' : ''</text>
+        <text>isOpen ? 'reviews-tooltip-title' : ''</text>
       </register>
       <register name="-" type="4">
-        <text>isOpen ? 'review-content' : ''</text>
+        <text>isOpen ? 'reviews-tooltip-title' : ''</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTaGlwcGluZ1Rvb2x0aXBcPg==</text>
