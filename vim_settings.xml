@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>geosuggest</entry>
         <entry encoding="base64">XDxfZ2Vvc3VnZ2VzdFw+</entry>
         <entry encoding="base64">XDxhbGxvd0dlb1N1Z2dlc3Rpb25DbGlja0V2ZW50VGltZVRvUHJvcGFnYXRlXD4=</entry>
         <entry>wrapper</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxSZXN1bHRzU2NyZWVuXD4=</entry>
         <entry encoding="base64">XDxNdWx0aVN0ZXBIYW5kbGVyXD4=</entry>
         <entry encoding="base64">XDxIYW5kbGVyXD4=</entry>
+        <entry encoding="base64">XDx0b29sdGlwQ29udGVudElkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set norelativenumber</entry>
@@ -95,13 +95,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Development/jupiter/packages/@bookings/header/HeaderExperienceDropdown.tsx" timestamp="1593710326352">
+        <mark key="'" line="21" column="8" />
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="28" column="48" />
+        <mark key="^" line="28" column="48" />
+        <mark key="." line="28" column="47" />
+      </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/View.test.tsx" timestamp="1593707269731">
         <mark key="[" line="84" column="74" />
         <mark key="]" line="84" column="78" />
         <mark key="^" line="84" column="78" />
         <mark key="." line="84" column="77" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/View.tsx" timestamp="1593707126769">
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/View.tsx" timestamp="1593710322862">
+        <mark key="'" line="40" column="12" />
         <mark key="[" line="29" column="88" />
         <mark key="]" line="29" column="87" />
         <mark key="." line="29" column="86" />
@@ -115,6 +123,9 @@
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-value-calculator/Handler.tsx" timestamp="1593708157675">
         <mark key="'" line="16" column="6" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@bookings/header/HeaderAccountDropdown.tsx" timestamp="1593710395128">
+        <mark key="[" line="32" column="27" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/AccessibleTooltip.tsx" timestamp="1593699039550">
         <mark key="[" line="25" column="22" />
@@ -136,18 +147,6 @@
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-value-calculator/MultiStepView/MultiStepHandler.tsx" timestamp="1593708144606">
         <mark key="'" line="12" column="6" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/cart/summary/ItemView/MembershipItemView.tsx" timestamp="1593635270621">
-        <mark key="[" line="17" column="77" />
-        <mark key="]" line="17" column="76" />
-        <mark key="^" line="17" column="76" />
-        <mark key="." line="17" column="75" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/accessories/InfoTooltip.tsx" timestamp="1593640292605">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="17" column="32" />
-        <mark key="^" line="17" column="32" />
-        <mark key="." line="17" column="31" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/forms/CardCVCInput.tsx" timestamp="1593704540436">
         <mark key="[" line="21" column="30" />
@@ -193,9 +192,6 @@
         <mark key="^" line="20" column="55" />
         <mark key="." line="20" column="54" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/header/HeaderView.tsx" timestamp="1593632952810">
-        <mark key="'" line="253" column="6" />
-      </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/cart/summary/HolidayShippingRow.tsx" timestamp="1593699525406">
         <mark key="'" line="22" column="3" />
         <mark key="[" line="24" column="20" />
@@ -205,9 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="45" filename="$USER_HOME$/Development/jupiter/package.json" />
-      <jump line="99" column="34" filename="$USER_HOME$/Development/jupiter/package.json" />
-      <jump line="79" column="47" filename="$USER_HOME$/Development/jupiter/package.json" />
       <jump line="44" column="23" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/blog-cards-module/BlogCardsModule.test.tsx" />
       <jump line="76" column="44" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/blog-cards-module/BlogCard.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/jupiter/apps/www/public/scripts/one-trust-consent-script-builder.js" />
@@ -305,6 +298,9 @@
       <jump line="77" column="47" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-value-calculator/SharedViews/ResultsScreen.tsx" />
       <jump line="12" column="6" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-value-calculator/MultiStepView/MultiStepHandler.tsx" />
       <jump line="16" column="6" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-value-calculator/Handler.tsx" />
+      <jump line="40" column="12" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/View.tsx" />
+      <jump line="18" column="11" filename="$USER_HOME$/Development/jupiter/packages/@bookings/header/HeaderExperienceDropdown.tsx" />
+      <jump line="21" column="8" filename="$USER_HOME$/Development/jupiter/packages/@bookings/header/HeaderExperienceDropdown.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,17 +313,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>closed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGFyaWEtZGVzY3JpYmVkYnk9e3Rvb2x0aXBDb250ZW50SWR9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>closed</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxIYW5kbGVyXD4=</text>
+        <text encoding="base64">XDx0b29sdGlwQ29udGVudElkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpdC5vbmx5KCdwYXNzZXMgYW4gZW1wdHkgc3RyaW5nIGFzIGFyaWEtZGVzY3JpYmVkYnkgd2hlbiB0aGUgdG9vbHRpcCBpcyBjbG9zZWQnLCAoKSA9PiB7CiAgICBjb25zdCByb290ID0gcmVuZGVyZXIKICAgICAgLmNyZWF0ZSgKICAgICAgICA8VG9vbHRpcFZpZXcKICAgICAgICAgIHRvb2x0aXBDb250ZW50SWQ9InNvbWVJZCIKICAgICAgICAgIHBsYWNlbWVudD17UGxhY2VtZW50LlRvcH0KICAgICAgICAgIHJlbmRlclRhcmdldD17KHsgdG9nZ2xlVG9vbHRpcCwgdG9vbHRpcENvbnRlbnRJZCB9KSA9PiAoeyByZWYgfSkgPT4gKAogICAgICAgICAgICA8ZGl2IGFyaWEtZGVzY3JpYmVkYnk9e3Rvb2x0aXBDb250ZW50SWR9IHJlZj17cmVmfSBvbk1vdXNlT3V0PXt0b2dnbGVUb29sdGlwfSBvbk1vdXNlT3Zlcj17dG9nZ2xlVG9vbHRpcH0+CiAgICAgICAgICAgICAgSG92ZXIgb24gbWUKICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICApfQogICAgICAgICAgcmVuZGVyVG9vbHRpcD17KCkgPT4gKCkgPT4gPHAgaWQ9InNvbWVJZCI+Q29vbCB0b29sdGlwPC9wPn0KICAgICAgICAvPiwKICAgICAgKS5yb290CgoKICAgIGNvbnN0IHRyaWdnZXJQcm9wcyA9IHJvb3QuZmluZEJ5VHlwZSgnZGl2JykucHJvcHMKICAgIGV4cGVjdCh0cmlnZ2VyUHJvcHNbImFyaWEtZGVzY3JpYmVkYnkiXSkudG9CZSgiIikKICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGFyaWEtZGVzY3JpYmVkYnk9e3Rvb2x0aXBDb250ZW50SWR9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0pOwo=</text>
@@ -366,9 +362,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxIYW5kbGVyXD4=</last-search>
+      <last-search encoding="base64">XDx0b29sdGlwQ29udGVudElkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxIYW5kbGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0b29sdGlwQ29udGVudElkXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxfZ2Vvc3VnZ2VzdFw+</last-substitute>
       <last-dir>1</last-dir>
