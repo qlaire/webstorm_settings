@@ -108,12 +108,12 @@
         <mark key="^" line="84" column="78" />
         <mark key="." line="84" column="77" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/View.tsx" timestamp="1594148291392">
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/View.tsx" timestamp="1594149370347">
         <mark key="'" line="49" column="51" />
-        <mark key="[" line="29" column="88" />
-        <mark key="]" line="29" column="87" />
-        <mark key="." line="29" column="86" />
-        <mark key="^" line="29" column="87" />
+        <mark key="[" line="49" column="35" />
+        <mark key="]" line="49" column="39" />
+        <mark key="." line="49" column="38" />
+        <mark key="^" line="49" column="39" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/cart/summary/ShippingTooltip.tsx" timestamp="1593707650524">
         <mark key="[" line="15" column="17" />
@@ -148,7 +148,7 @@
         <mark key="^" line="29" column="50" />
         <mark key="." line="29" column="49" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/accessories/InfoTooltip.tsx" timestamp="1594148276556">
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/accessories/InfoTooltip.tsx" timestamp="1594149221377">
         <mark key="'" line="37" column="47" />
         <mark key="[" line="37" column="57" />
         <mark key="]" line="37" column="64" />
@@ -164,18 +164,18 @@
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-value-calculator/SharedViews/DualCardContainer.tsx" timestamp="1593708068790">
         <mark key="'" line="46" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/cart/summary/InfoTooltip.tsx" timestamp="1593699138588">
-        <mark key="[" line="13" column="10" />
-        <mark key="]" line="14" column="32" />
-        <mark key="^" line="14" column="32" />
-        <mark key="." line="14" column="31" />
-      </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/cart/summary/ItemView/RemovableMembershipItemView.tsx" timestamp="1593699185332">
         <mark key="'" line="5" column="48" />
         <mark key="[" line="35" column="51" />
         <mark key="]" line="35" column="49" />
         <mark key="." line="35" column="48" />
         <mark key="^" line="35" column="49" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/shared.ts" timestamp="1594149914224">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/internationalize/LocaleDropdown.tsx" timestamp="1593699656900">
         <mark key="'" line="111" column="5" />
@@ -308,11 +308,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>{placement}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJlaGF2aW9yOiBbJ2xlZnQnLCAncmlnaHQnLCAnYm90dG9tJywgJ3RvcCddLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>{placement}</text>
+        <text encoding="base64">PC9Qb3BwZXI+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RpZmllcnNcPg==</text>
@@ -321,34 +321,34 @@
         <text encoding="base64">ICAgICAgICAgIGFyaWEtZGVzY3JpYmVkYnk9e3Rvb2x0aXBDb250ZW50SWR9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIGJlaGF2aW9yOiBbJ2xlZnQnLCAncmlnaHQnLCAnYm90dG9tJywgJ3RvcCddLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVmPXtyZWZ9Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYWN0IH0gZnJvbSAnQHRlc3RpbmctbGlicmFyeS9yZWFjdCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVmPXtyZWZ9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJhbWkgaGVyZSIsIHRyaWdnZXIpCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgYWN0IH0gZnJvbSAnQHRlc3RpbmctbGlicmFyeS9yZWFjdCc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRyZWUpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJhbWkgaGVyZSIsIHRyaWdnZXIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRyZWUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChwcm9wTGlzdCkudG9FcXVhbChleHBlY3QuYXJyYXlDb250YWluaW5nKFsnb25Nb3VzZU92ZXInLCAnb25Nb3VzZU91dCddKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHByb3BMaXN0ID0gT2JqZWN0LmtleXModHJlZS5wcm9wcyk7Cg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdChwcm9wTGlzdCkudG9FcXVhbChleHBlY3QuYXJyYXlDb250YWluaW5nKFsnb25Nb3VzZU92ZXInLCAnb25Nb3VzZU91dCddKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFyaWEtZGVzY3JpYmVkYnk9ImNhcnRTdW1tYXJ5Lm1lbWJlcnNoaXBJbmZvIgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHByb3BMaXN0ID0gT2JqZWN0LmtleXModHJlZS5wcm9wcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>191</text>
