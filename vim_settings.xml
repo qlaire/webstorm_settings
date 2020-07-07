@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZ2Vvc3VnZ2VzdFw+</entry>
-        <entry encoding="base64">XDxhbGxvd0dlb1N1Z2dlc3Rpb25DbGlja0V2ZW50VGltZVRvUHJvcGFnYXRlXD4=</entry>
         <entry>wrapper</entry>
         <entry encoding="base64">XDxoYW5kbGVBZGRyZXNzQmx1clw+</entry>
         <entry>homecoming</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxNdWx0aVN0ZXBIYW5kbGVyXD4=</entry>
         <entry encoding="base64">XDxIYW5kbGVyXD4=</entry>
         <entry encoding="base64">XDx0b29sdGlwQ29udGVudElkXD4=</entry>
+        <entry>placement</entry>
+        <entry encoding="base64">XDxtb2RpZmllcnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set norelativenumber</entry>
@@ -108,8 +108,8 @@
         <mark key="^" line="84" column="78" />
         <mark key="." line="84" column="77" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/View.tsx" timestamp="1593710322862">
-        <mark key="'" line="40" column="12" />
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/View.tsx" timestamp="1594148291392">
+        <mark key="'" line="49" column="51" />
         <mark key="[" line="29" column="88" />
         <mark key="]" line="29" column="87" />
         <mark key="." line="29" column="86" />
@@ -126,12 +126,6 @@
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@bookings/header/HeaderAccountDropdown.tsx" timestamp="1593710395128">
         <mark key="[" line="32" column="27" />
-      </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/AccessibleTooltip.tsx" timestamp="1593699039550">
-        <mark key="[" line="25" column="22" />
-        <mark key="]" line="25" column="28" />
-        <mark key="^" line="25" column="28" />
-        <mark key="." line="25" column="27" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-bike-reviews/Views/RatingsMasthead/ReviewsTooltip.tsx" timestamp="1593699763147">
         <mark key="[" line="27" column="26" />
@@ -153,6 +147,13 @@
         <mark key="]" line="29" column="50" />
         <mark key="^" line="29" column="50" />
         <mark key="." line="29" column="49" />
+      </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/accessories/InfoTooltip.tsx" timestamp="1594148276556">
+        <mark key="'" line="37" column="47" />
+        <mark key="[" line="37" column="57" />
+        <mark key="]" line="37" column="64" />
+        <mark key="^" line="37" column="64" />
+        <mark key="." line="37" column="63" />
       </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/forms/CardCVCInput.tsx" timestamp="1593704540436">
         <mark key="[" line="21" column="30" />
@@ -195,10 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="23" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/blog-cards-module/BlogCardsModule.test.tsx" />
-      <jump line="76" column="44" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/blog-cards-module/BlogCard.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/jupiter/apps/www/public/scripts/one-trust-consent-script-builder.js" />
-      <jump line="61" column="0" filename="$USER_HOME$/Development/jupiter/apps/www/public/scripts/one-trust-consent-script-builder.js" />
       <jump line="11" column="7" filename="$USER_HOME$/Development/jupiter/apps/www/public/scripts/one-trust-consent-script-builder.js" />
       <jump line="15" column="6" filename="$USER_HOME$/Development/jupiter/apps/www/public/scripts/one-trust-consent-script-builder.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Content/Form/ContactInfoSection.tsx" />
@@ -295,6 +292,10 @@
       <jump line="40" column="12" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/View.tsx" />
       <jump line="18" column="11" filename="$USER_HOME$/Development/jupiter/packages/@bookings/header/HeaderExperienceDropdown.tsx" />
       <jump line="21" column="8" filename="$USER_HOME$/Development/jupiter/packages/@bookings/header/HeaderExperienceDropdown.tsx" />
+      <jump line="23" column="15" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/accessories/InfoTooltip.tsx" />
+      <jump line="36" column="27" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/accessories/InfoTooltip.tsx" />
+      <jump line="37" column="47" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/accessories/InfoTooltip.tsx" />
+      <jump line="49" column="51" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/View.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -308,13 +309,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>isOpen ? 'cartSummary.membershipInfo' : ''</text>
+        <text>{placement}</text>
       </register>
       <register name="-" type="4">
-        <text>isOpen ? 'cartSummary.membershipInfo' : ''</text>
+        <text>{placement}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b29sdGlwQ29udGVudElkXD4=</text>
+        <text encoding="base64">XDxtb2RpZmllcnNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGFyaWEtZGVzY3JpYmVkYnk9e3Rvb2x0aXBDb250ZW50SWR9Cg==</text>
@@ -356,9 +357,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx0b29sdGlwQ29udGVudElkXD4=</last-search>
+      <last-search encoding="base64">XDxtb2RpZmllcnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b29sdGlwQ29udGVudElkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtb2RpZmllcnNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxfZ2Vvc3VnZ2VzdFw+</last-substitute>
       <last-dir>1</last-dir>
