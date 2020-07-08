@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>wrapper</entry>
         <entry encoding="base64">XDxoYW5kbGVBZGRyZXNzQmx1clw+</entry>
         <entry>homecoming</entry>
         <entry>classes</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDx0b29sdGlwQ29udGVudElkXD4=</entry>
         <entry>placement</entry>
         <entry encoding="base64">XDxtb2RpZmllcnNcPg==</entry>
+        <entry encoding="base64">XDxDYXJvdXNlbHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set norelativenumber</entry>
@@ -133,12 +133,6 @@
         <mark key="^" line="27" column="42" />
         <mark key="." line="27" column="41" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/badge/VerifiedBadge/index.tsx" timestamp="1593699347903">
-        <mark key="[" line="21" column="28" />
-        <mark key="]" line="21" column="44" />
-        <mark key="^" line="21" column="44" />
-        <mark key="." line="21" column="43" />
-      </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-value-calculator/MultiStepView/MultiStepHandler.tsx" timestamp="1593708144606">
         <mark key="'" line="12" column="6" />
       </file>
@@ -164,13 +158,6 @@
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-value-calculator/SharedViews/DualCardContainer.tsx" timestamp="1593708068790">
         <mark key="'" line="46" column="6" />
       </file>
-      <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/cart/summary/ItemView/RemovableMembershipItemView.tsx" timestamp="1593699185332">
-        <mark key="'" line="5" column="48" />
-        <mark key="[" line="35" column="51" />
-        <mark key="]" line="35" column="49" />
-        <mark key="." line="35" column="48" />
-        <mark key="^" line="35" column="49" />
-      </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/shared.ts" timestamp="1594149914224">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -187,6 +174,9 @@
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-value-calculator/SharedViews/ResultsScreen.tsx" timestamp="1593708132907">
         <mark key="'" line="77" column="47" />
       </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@members/pg-overview/PersonalRecordsCard/PersonalRecordsCardView.tsx" timestamp="1594232220222">
+        <mark key="'" line="120" column="6" />
+      </file>
       <file name="$USER_HOME$/Development/jupiter/packages/@ecomm/cart/summary/HolidayShippingRow.tsx" timestamp="1593699525406">
         <mark key="'" line="22" column="3" />
         <mark key="[" line="24" column="20" />
@@ -194,9 +184,9 @@
         <mark key="^" line="24" column="55" />
         <mark key="." line="24" column="54" />
       </file>
+      <file name="$USER_HOME$/Development/jupiter/packages/@members/pg-overview/PersonalRecordsCard/Carousel.tsx" timestamp="1594232334066" />
     </filemarks>
     <jumps>
-      <jump line="11" column="7" filename="$USER_HOME$/Development/jupiter/apps/www/public/scripts/one-trust-consent-script-builder.js" />
       <jump line="15" column="6" filename="$USER_HOME$/Development/jupiter/apps/www/public/scripts/one-trust-consent-script-builder.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Content/Form/ContactInfoSection.tsx" />
       <jump line="19" column="14" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/pg-checkout/Content/Form/ContactInfoSection.tsx" />
@@ -296,6 +286,7 @@
       <jump line="36" column="27" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/accessories/InfoTooltip.tsx" />
       <jump line="37" column="47" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/accessories/InfoTooltip.tsx" />
       <jump line="49" column="51" filename="$USER_HOME$/Development/jupiter/packages/@ecomm/tooltip/View.tsx" />
+      <jump line="120" column="6" filename="$USER_HOME$/Development/jupiter/packages/@members/pg-overview/PersonalRecordsCard/PersonalRecordsCardView.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -315,7 +306,7 @@
         <text encoding="base64">PC9Qb3BwZXI+</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb2RpZmllcnNcPg==</text>
+        <text encoding="base64">XDxDYXJvdXNlbHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGFyaWEtZGVzY3JpYmVkYnk9e3Rvb2x0aXBDb250ZW50SWR9Cg==</text>
@@ -357,9 +348,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtb2RpZmllcnNcPg==</last-search>
+      <last-search encoding="base64">XDxDYXJvdXNlbHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb2RpZmllcnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxDYXJvdXNlbHNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxfZ2Vvc3VnZ2VzdFw+</last-substitute>
       <last-dir>1</last-dir>
