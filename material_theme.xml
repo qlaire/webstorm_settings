@@ -1,17 +1,21 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="allowDataCollection" value="true" />
-    <option name="compactDropdowns" value="true" />
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="tabsHeight" value="18" />
-    <option name="accentColor" value="009688" />
+    <option name="accentColor" value="416a9b" />
     <option name="highlightColor" value="e9712f" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="41971d55:167cc41fdf7:-8000" />
-    <option name="version" value="4.11.5" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
